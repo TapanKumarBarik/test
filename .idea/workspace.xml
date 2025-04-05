@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find Armstrong numbers in a given range">
-      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Divide by 2.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to determine the number of times to divide a number by 2 until it reaches 1">
+      <change afterPath="$PROJECT_DIR$/0004_Intermediate_DSA_Time_Complexity_1/Q1. Loop_Time Complexity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0004_Intermediate_DSA_Time_Complexity_1/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -258,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743865674671</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add solution to determine the number of times to divide a number by 2 until it reaches 1">
+      <option name="closed" value="true" />
+      <created>1743865805890</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1743865805890</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +295,7 @@
     <MESSAGE value="Add solution to calculate the maximum number of mango shakes from given mangoes and slices" />
     <MESSAGE value="Add solution to count the number of elements in a given range" />
     <MESSAGE value="Add solution to find Armstrong numbers in a given range" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find Armstrong numbers in a given range" />
+    <MESSAGE value="Add solution to determine the number of times to divide a number by 2 until it reaches 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to determine the number of times to divide a number by 2 until it reaches 1" />
   </component>
 </project>
