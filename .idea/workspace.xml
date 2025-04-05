@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to calculate the sum of N natural numbers">
-      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Find Perfect Numbers.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to determine if a number is perfect">
+      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Count of primes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743855262487</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add solution to determine if a number is perfect">
+      <option name="closed" value="true" />
+      <created>1743862515740</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743862515740</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,6 +235,7 @@
     <MESSAGE value="Add solution to find the square root of a number if it is a perfect square" />
     <MESSAGE value="Add solution to find the number of iterations for perfect squares" />
     <MESSAGE value="Add solution to calculate the sum of N natural numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to calculate the sum of N natural numbers" />
+    <MESSAGE value="Add solution to determine if a number is perfect" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to determine if a number is perfect" />
   </component>
 </project>
