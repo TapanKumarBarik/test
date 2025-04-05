@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to determine if a number is perfect">
-      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Count of primes.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to count prime numbers less than or equal to a given integer">
+      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Is Perfect Square.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +79,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python. Find Iterations.executor": "Run",
     "Python.Count Factors - 2.executor": "Run",
+    "Python.Count of primes.executor": "Run",
     "Python.Find Perfect Numbers.executor": "Run",
     "Python.IsPrime.executor": "Run",
     "Python.Square root of a number.executor": "Run",
@@ -213,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743862515740</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add solution to count prime numbers less than or equal to a given integer">
+      <option name="closed" value="true" />
+      <created>1743863006343</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743863006343</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +245,7 @@
     <MESSAGE value="Add solution to find the number of iterations for perfect squares" />
     <MESSAGE value="Add solution to calculate the sum of N natural numbers" />
     <MESSAGE value="Add solution to determine if a number is perfect" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to determine if a number is perfect" />
+    <MESSAGE value="Add solution to count prime numbers less than or equal to a given integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to count prime numbers less than or equal to a given integer" />
   </component>
 </project>
