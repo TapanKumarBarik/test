@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to analyze the time complexity of a linear loop in Python">
-      <change afterPath="$PROJECT_DIR$/0004_Intermediate_DSA_Time_Complexity_1/Q4. Time Complexity with Condition.md" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to analyze the time complexity of a loop with a condition in Python">
+      <change afterPath="$PROJECT_DIR$/0004_Intermediate_DSA_Time_Complexity_1/Q5. Nested Loop with Doubling.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -290,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743867315266</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add solution to analyze the time complexity of a loop with a condition in Python">
+      <option name="closed" value="true" />
+      <created>1743867461052</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1743867461052</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,6 +330,7 @@
     <MESSAGE value="Add solution to analyze the time complexity of code snippets in C++, Java, and Python" />
     <MESSAGE value="Add solution to analyze the time complexity of a Python code snippet" />
     <MESSAGE value="Add solution to analyze the time complexity of a linear loop in Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to analyze the time complexity of a linear loop in Python" />
+    <MESSAGE value="Add solution to analyze the time complexity of a loop with a condition in Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to analyze the time complexity of a loop with a condition in Python" />
   </component>
 </project>
