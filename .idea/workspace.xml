@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to count the number of elements in a given range">
-      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Find Armstrong Numbers.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find Armstrong numbers in a given range">
+      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Divide by 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -250,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743864097282</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add solution to find Armstrong numbers in a given range">
+      <option name="closed" value="true" />
+      <created>1743865674671</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743865674671</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +285,7 @@
     <MESSAGE value="Add solution to determine if a number is a perfect square" />
     <MESSAGE value="Add solution to calculate the maximum number of mango shakes from given mangoes and slices" />
     <MESSAGE value="Add solution to count the number of elements in a given range" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to count the number of elements in a given range" />
+    <MESSAGE value="Add solution to find Armstrong numbers in a given range" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find Armstrong numbers in a given range" />
   </component>
 </project>
