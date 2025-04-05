@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to count factors of a given integer">
-      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/IsPrime.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to determine if a number is prime">
+      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Square root of a number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +79,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Count Factors - 2.executor": "Run",
     "Python.IsPrime.executor": "Run",
+    "Python.Square root of a number.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -169,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743854143345</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add solution to determine if a number is prime">
+      <option name="closed" value="true" />
+      <created>1743854744933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743854744933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +196,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initialize project structure with Python module and configuration files" />
     <MESSAGE value="Add solution to count factors of a given integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to count factors of a given integer" />
+    <MESSAGE value="Add solution to determine if a number is prime" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to determine if a number is prime" />
   </component>
 </project>
