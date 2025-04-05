@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the number of iterations for perfect squares">
-      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Sum of N natural numbers.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to calculate the sum of N natural numbers">
+      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Find Perfect Numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +79,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python. Find Iterations.executor": "Run",
     "Python.Count Factors - 2.executor": "Run",
+    "Python.Find Perfect Numbers.executor": "Run",
     "Python.IsPrime.executor": "Run",
     "Python.Square root of a number.executor": "Run",
     "Python.Sum of N natural numbers.executor": "Run",
@@ -196,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743855098082</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add solution to calculate the sum of N natural numbers">
+      <option name="closed" value="true" />
+      <created>1743855262487</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743855262487</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +226,7 @@
     <MESSAGE value="Add solution to determine if a number is prime" />
     <MESSAGE value="Add solution to find the square root of a number if it is a perfect square" />
     <MESSAGE value="Add solution to find the number of iterations for perfect squares" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the number of iterations for perfect squares" />
+    <MESSAGE value="Add solution to calculate the sum of N natural numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to calculate the sum of N natural numbers" />
   </component>
 </project>
