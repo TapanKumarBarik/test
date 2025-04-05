@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to determine if a number is a perfect square">
-      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Make it.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to calculate the maximum number of mango shakes from given mangoes and slices">
+      <change afterPath="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Number of elements in a range.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +83,7 @@
     "Python.Find Perfect Numbers.executor": "Run",
     "Python.Is Perfect Square.executor": "Run",
     "Python.IsPrime.executor": "Run",
+    "Python.Make it.executor": "Run",
     "Python.Square root of a number.executor": "Run",
     "Python.Sum of N natural numbers.executor": "Run",
     "Python.main.executor": "Run",
@@ -231,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743863386579</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add solution to calculate the maximum number of mango shakes from given mangoes and slices">
+      <option name="closed" value="true" />
+      <created>1743863988995</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743863988995</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +265,7 @@
     <MESSAGE value="Add solution to determine if a number is perfect" />
     <MESSAGE value="Add solution to count prime numbers less than or equal to a given integer" />
     <MESSAGE value="Add solution to determine if a number is a perfect square" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to determine if a number is a perfect square" />
+    <MESSAGE value="Add solution to calculate the maximum number of mango shakes from given mangoes and slices" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to calculate the maximum number of mango shakes from given mangoes and slices" />
   </component>
 </project>
