@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to determine the number of times to divide a number by 2 until it reaches 1">
-      <change afterPath="$PROJECT_DIR$/0004_Intermediate_DSA_Time_Complexity_1/Q1. Loop_Time Complexity.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0004_Intermediate_DSA_Time_Complexity_1/__init__.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to analyze the time complexity of code snippets in C++, Java, and Python">
+      <change afterPath="$PROJECT_DIR$/0004_Intermediate_DSA_Time_Complexity_1/Q2. Find Time Complexity - 2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -267,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743865805890</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add solution to analyze the time complexity of code snippets in C++, Java, and Python">
+      <option name="closed" value="true" />
+      <created>1743866522295</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1743866522295</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,6 +303,7 @@
     <MESSAGE value="Add solution to count the number of elements in a given range" />
     <MESSAGE value="Add solution to find Armstrong numbers in a given range" />
     <MESSAGE value="Add solution to determine the number of times to divide a number by 2 until it reaches 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to determine the number of times to divide a number by 2 until it reaches 1" />
+    <MESSAGE value="Add solution to analyze the time complexity of code snippets in C++, Java, and Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to analyze the time complexity of code snippets in C++, Java, and Python" />
   </component>
 </project>
