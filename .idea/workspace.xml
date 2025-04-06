@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to count occurrences of an integer in an array">
-      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Second Largest.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the second largest element in an array">
+      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Range Sum Query - II.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Second Largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Second Largest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +92,7 @@
     "Python.Max Min of an Array.executor": "Run",
     "Python.Number of elements in a range.executor": "Run",
     "Python.Reverse in a range.executor": "Run",
+    "Python.Second Largest.executor": "Run",
     "Python.Square root of a number.executor": "Run",
     "Python.Sum of N natural numbers.executor": "Run",
     "Python.main.executor": "Run",
@@ -458,7 +460,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743956950060</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add solution to find the second largest element in an array">
+      <option name="closed" value="true" />
+      <created>1743957372844</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1743957372844</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,7 +484,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to find the number of iterations for perfect squares" />
     <MESSAGE value="Add solution to calculate the sum of N natural numbers" />
     <MESSAGE value="Add solution to determine if a number is perfect" />
     <MESSAGE value="Add solution to count prime numbers less than or equal to a given integer" />
@@ -499,6 +508,7 @@
     <MESSAGE value="Add time complexity analysis for array insertion and deletion" />
     <MESSAGE value="Add solution to find the sum of maximum and minimum elements in an array" />
     <MESSAGE value="Add solution to count occurrences of an integer in an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to count occurrences of an integer in an array" />
+    <MESSAGE value="Add solution to find the second largest element in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the second largest element in an array" />
   </component>
 </project>

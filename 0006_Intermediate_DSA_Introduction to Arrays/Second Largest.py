@@ -83,3 +83,12 @@ if __name__ == "__main__":
     solution = Solution()
     result = solution.solve(A)
     print(result)  # Output: -1
+
+
+# What i did
+# 1. Find the maximum element in the array using the max() function.
+# 2. Initialize a variable second_max to -1, which will store the second largest element.
+# 3. Iterate through each element in the array A.
+# 4. If the current element is not equal to the maximum element, update second_max to be the maximum of the current element and second_max.
+# 5. Finally, return second_max, which will be the second largest element in the array. If no such element exists, it will return -1.
+#
