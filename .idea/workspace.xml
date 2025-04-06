@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to reverse an array">
-      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Array Rotation.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to rotate an array to the right">
+      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Time Complexity - Arrays.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -401,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743916416010</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Add solution to rotate an array to the right">
+      <option name="closed" value="true" />
+      <created>1743917419184</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1743917419184</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,7 +425,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="initialize project structure with Python module and configuration files" />
     <MESSAGE value="Add solution to count factors of a given integer" />
     <MESSAGE value="Add solution to determine if a number is prime" />
     <MESSAGE value="Add solution to find the square root of a number if it is a perfect square" />
@@ -442,6 +449,7 @@
     <MESSAGE value="Add solution to find good pairs in an array that sum to a given integer" />
     <MESSAGE value="Add solution to reverse elements in an array within a given range" />
     <MESSAGE value="Add solution to reverse an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to reverse an array" />
+    <MESSAGE value="Add solution to rotate an array to the right" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to rotate an array to the right" />
   </component>
 </project>
