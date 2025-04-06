@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find good pairs in an array that sum to a given integer">
-      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Reverse in a range.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to reverse elements in an array within a given range">
+      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Reverse the Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -385,7 +385,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743915865346</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add solution to reverse elements in an array within a given range">
+      <option name="closed" value="true" />
+      <created>1743916213375</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1743916213375</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,6 +432,7 @@
     <MESSAGE value="Add initial implementation for time complexity analysis in Python" />
     <MESSAGE value="Add solution to count elements in an array that have at least one greater element" />
     <MESSAGE value="Add solution to find good pairs in an array that sum to a given integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find good pairs in an array that sum to a given integer" />
+    <MESSAGE value="Add solution to reverse elements in an array within a given range" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to reverse elements in an array within a given range" />
   </component>
 </project>
