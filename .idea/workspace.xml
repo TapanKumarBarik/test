@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find minimum time to make all elements in an array equal">
-      <change afterPath="$PROJECT_DIR$/0004_Intermediate_DSA_Time_Complexity_1/Q8. Find Time Complexity - 10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0004_Intermediate_DSA_Time_Complexity_1/Q9. Time-Complexity-5.md" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solutions to analyze time complexity of code snippets">
+      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/Q1. Prefix Sum Formula.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/Q2. Time Complexity of Prefix Sum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/Range Sum Query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/download.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -489,7 +492,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743958291108</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Add solutions to analyze time complexity of code snippets">
+      <option name="closed" value="true" />
+      <created>1743958849027</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1743958849027</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -505,7 +516,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to count prime numbers less than or equal to a given integer" />
     <MESSAGE value="Add solution to determine if a number is a perfect square" />
     <MESSAGE value="Add solution to calculate the maximum number of mango shakes from given mangoes and slices" />
     <MESSAGE value="Add solution to count the number of elements in a given range" />
@@ -530,6 +540,7 @@
     <MESSAGE value="Add solution to find the second largest element in an array" />
     <MESSAGE value="Add solution for range sum query in an array" />
     <MESSAGE value="Add solution to find minimum time to make all elements in an array equal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find minimum time to make all elements in an array equal" />
+    <MESSAGE value="Add solutions to analyze time complexity of code snippets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solutions to analyze time complexity of code snippets" />
   </component>
 </project>
