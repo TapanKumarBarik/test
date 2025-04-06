@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find good pairs in an array that sum to a given integer">
-      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Good Pair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Reverse in a range.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0005_Intermediate_DSA_Time Complexity_2/download.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/download.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +88,7 @@
     "Python.IsPrime.executor": "Run",
     "Python.Make it.executor": "Run",
     "Python.Number of elements in a range.executor": "Run",
+    "Python.Reverse in a range.executor": "Run",
     "Python.Square root of a number.executor": "Run",
     "Python.Sum of N natural numbers.executor": "Run",
     "Python.main.executor": "Run",
@@ -103,7 +103,7 @@
       <recent name="C:\Scalar\Scalar\0006_Intermediate_DSA_Introduction to Arrays" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Reverse in a range">
     <configuration name="Count Factors - 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scalar" />
       <option name="ENV_FILES" value="" />
@@ -118,6 +118,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0003_Intermediate_DSA_Introduction_to_Problem_Solving/Count Factors - 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Reverse in a range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scalar" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Reverse in a range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,6 +172,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Reverse in a range" />
         <item itemvalue="Python.Count Factors - 2" />
       </list>
     </recent_temporary>
@@ -354,7 +377,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743915847838</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add solution to find good pairs in an array that sum to a given integer">
+      <option name="closed" value="true" />
+      <created>1743915865346</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1743915865346</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
