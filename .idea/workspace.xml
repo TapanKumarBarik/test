@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the sum of maximum and minimum elements in an array">
-      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Linear Search - Multiple Occurences.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to count occurrences of an integer in an array">
+      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Second Largest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +86,7 @@
     "Python.Good Pair.executor": "Run",
     "Python.Is Perfect Square.executor": "Run",
     "Python.IsPrime.executor": "Run",
+    "Python.Linear Search - Multiple Occurences.executor": "Run",
     "Python.Make it.executor": "Run",
     "Python.Max Min of an Array.executor": "Run",
     "Python.Number of elements in a range.executor": "Run",
@@ -104,7 +105,7 @@
       <recent name="C:\Scalar\Scalar\0006_Intermediate_DSA_Introduction to Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Max Min of an Array">
+  <component name="RunManager">
     <configuration name="Count Factors - 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scalar" />
       <option name="ENV_FILES" value="" />
@@ -449,7 +450,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743956804149</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Add solution to count occurrences of an integer in an array">
+      <option name="closed" value="true" />
+      <created>1743956950060</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1743956950060</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -465,7 +474,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to find the square root of a number if it is a perfect square" />
     <MESSAGE value="Add solution to find the number of iterations for perfect squares" />
     <MESSAGE value="Add solution to calculate the sum of N natural numbers" />
     <MESSAGE value="Add solution to determine if a number is perfect" />
@@ -490,6 +498,7 @@
     <MESSAGE value="Add solution to rotate an array to the right" />
     <MESSAGE value="Add time complexity analysis for array insertion and deletion" />
     <MESSAGE value="Add solution to find the sum of maximum and minimum elements in an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the sum of maximum and minimum elements in an array" />
+    <MESSAGE value="Add solution to count occurrences of an integer in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to count occurrences of an integer in an array" />
   </component>
 </project>
