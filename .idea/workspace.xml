@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add initial implementation for time complexity analysis in Python">
-      <change afterPath="$PROJECT_DIR$/0005_Intermediate_DSA_Time Complexity_2/download.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Count of elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/__init__.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to count elements in an array that have at least one greater element">
+      <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Good Pair.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0005_Intermediate_DSA_Time Complexity_2/download.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/download.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +97,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Scalar\Scalar\0006_Intermediate_DSA_Introduction to Arrays" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Count Factors - 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scalar" />
@@ -333,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743913376497</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add solution to count elements in an array that have at least one greater element">
+      <option name="closed" value="true" />
+      <created>1743914189851</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1743914189851</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -370,6 +382,7 @@
     <MESSAGE value="Add solution to analyze the time complexity of a double loop in Python" />
     <MESSAGE value="Add solution to analyze the time complexity of a loop with exponential growth in Python" />
     <MESSAGE value="Add initial implementation for time complexity analysis in Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add initial implementation for time complexity analysis in Python" />
+    <MESSAGE value="Add solution to count elements in an array that have at least one greater element" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to count elements in an array that have at least one greater element" />
   </component>
 </project>
