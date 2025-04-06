@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to count elements in an array that have at least one greater element">
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find good pairs in an array that sum to a given integer">
       <change afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/Good Pair.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0005_Intermediate_DSA_Time Complexity_2/download.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/0006_Intermediate_DSA_Introduction to Arrays/download.pdf" afterDir="false" />
@@ -84,6 +84,7 @@
     "Python.Count of primes.executor": "Run",
     "Python.Find Armstrong Numbers.executor": "Run",
     "Python.Find Perfect Numbers.executor": "Run",
+    "Python.Good Pair.executor": "Run",
     "Python.Is Perfect Square.executor": "Run",
     "Python.IsPrime.executor": "Run",
     "Python.Make it.executor": "Run",
@@ -345,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743914189851</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add solution to find good pairs in an array that sum to a given integer">
+      <option name="closed" value="true" />
+      <created>1743915847838</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1743915847838</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -383,6 +392,7 @@
     <MESSAGE value="Add solution to analyze the time complexity of a loop with exponential growth in Python" />
     <MESSAGE value="Add initial implementation for time complexity analysis in Python" />
     <MESSAGE value="Add solution to count elements in an array that have at least one greater element" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to count elements in an array that have at least one greater element" />
+    <MESSAGE value="Add solution to find good pairs in an array that sum to a given integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find good pairs in an array that sum to a given integer" />
   </component>
 </project>
