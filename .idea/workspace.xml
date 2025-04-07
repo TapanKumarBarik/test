@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solutions to analyze time complexity of code snippets">
-      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/Q1. Prefix Sum Formula.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/Q2. Time Complexity of Prefix Sum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/Range Sum Query.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/download.pdf" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solutions for prefix sum formula and range sum query in an array">
+      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/In-place Prefix Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +92,7 @@
     "Python.Max Min of an Array.executor": "Run",
     "Python.Number of elements in a range.executor": "Run",
     "Python.Range Sum Query - II.executor": "Run",
+    "Python.Range Sum Query.executor": "Run",
     "Python.Reverse in a range.executor": "Run",
     "Python.Reverse the Array.executor": "Run",
     "Python.Second Largest.executor": "Run",
@@ -500,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743958849027</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Add solutions for prefix sum formula and range sum query in an array">
+      <option name="closed" value="true" />
+      <created>1743959349076</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1743959349076</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +521,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to determine if a number is a perfect square" />
     <MESSAGE value="Add solution to calculate the maximum number of mango shakes from given mangoes and slices" />
     <MESSAGE value="Add solution to count the number of elements in a given range" />
     <MESSAGE value="Add solution to find Armstrong numbers in a given range" />
@@ -541,6 +545,7 @@
     <MESSAGE value="Add solution for range sum query in an array" />
     <MESSAGE value="Add solution to find minimum time to make all elements in an array equal" />
     <MESSAGE value="Add solutions to analyze time complexity of code snippets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solutions to analyze time complexity of code snippets" />
+    <MESSAGE value="Add solutions for prefix sum formula and range sum query in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solutions for prefix sum formula and range sum query in an array" />
   </component>
 </project>
