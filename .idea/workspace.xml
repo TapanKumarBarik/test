@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the equilibrium index of an array">
-      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/Even numbers in a range.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to count even numbers in specified ranges of an array">
+      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/Prefix Sum - I.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/Prefix Sum - II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0007_Intermediate_DSA_Arrays_Prefix_Sum/Prefix Sum - III.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +85,7 @@
     "Python.Count of elements.executor": "Run",
     "Python.Count of primes.executor": "Run",
     "Python.Equilibrium index of an array.executor": "Run",
+    "Python.Even numbers in a range.executor": "Run",
     "Python.Find Armstrong Numbers.executor": "Run",
     "Python.Find Perfect Numbers.executor": "Run",
     "Python.Good Pair.executor": "Run",
@@ -523,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744117771420</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Add solution to count even numbers in specified ranges of an array">
+      <option name="closed" value="true" />
+      <created>1744118233666</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1744118233666</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +550,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to find Armstrong numbers in a given range" />
     <MESSAGE value="Add solution to determine the number of times to divide a number by 2 until it reaches 1" />
     <MESSAGE value="Add solution to analyze the time complexity of code snippets in C++, Java, and Python" />
     <MESSAGE value="Add solution to analyze the time complexity of a Python code snippet" />
@@ -564,6 +574,7 @@
     <MESSAGE value="Add solutions for prefix sum formula and range sum query in an array" />
     <MESSAGE value="Add solution for in-place prefix sum calculation in an array" />
     <MESSAGE value="Add solution to find the equilibrium index of an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the equilibrium index of an array" />
+    <MESSAGE value="Add solution to count even numbers in specified ranges of an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to count even numbers in specified ranges of an array" />
   </component>
 </project>
