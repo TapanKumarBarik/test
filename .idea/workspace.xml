@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find leaders in an array">
-      <change afterPath="$PROJECT_DIR$/0008_Intermediate_DSA_Arrays_Carry_Forward/Closest MinMax.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the length of the smallest subarray containing both min and max values">
+      <change afterPath="$PROJECT_DIR$/0008_Intermediate_DSA_Arrays_Carry_Forward/Best Time to Buy and Sell Stocks I.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +79,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python. Find Iterations.executor": "Run",
     "Python.Array Rotation.executor": "Run",
+    "Python.Best Time to Buy and Sell Stocks I.executor": "Run",
+    "Python.Closest MinMax.executor": "Run",
     "Python.Count Factors - 2.executor": "Run",
     "Python.Count of elements.executor": "Run",
     "Python.Count of primes.executor": "Run",
@@ -575,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744128865742</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Add solution to find the length of the smallest subarray containing both min and max values">
+      <option name="closed" value="true" />
+      <created>1744162722521</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1744162722521</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -591,7 +601,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to analyze the time complexity of a nested loop with doubling in Python" />
     <MESSAGE value="Add solution to analyze the time complexity of a double loop in Python" />
     <MESSAGE value="Add solution to analyze the time complexity of a loop with exponential growth in Python" />
     <MESSAGE value="Add initial implementation for time complexity analysis in Python" />
@@ -616,6 +625,7 @@
     <MESSAGE value="Add solution to find all valid subarrays in an array" />
     <MESSAGE value="Add solution to count subsequences &quot;AG&quot; in a given string" />
     <MESSAGE value="Add solution to find leaders in an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find leaders in an array" />
+    <MESSAGE value="Add solution to find the length of the smallest subarray containing both min and max values" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the length of the smallest subarray containing both min and max values" />
   </component>
 </project>
