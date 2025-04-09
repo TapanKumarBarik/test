@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the length of the smallest subarray containing both min and max values">
-      <change afterPath="$PROJECT_DIR$/0008_Intermediate_DSA_Arrays_Carry_Forward/ Count Subarrays starting with 'a'.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0008_Intermediate_DSA_Arrays_Carry_Forward/mazing Subarrays.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solutions to count subarrays starting with 'a' and find amazing substrings">
+      <change afterPath="$PROJECT_DIR$/0008_Intermediate_DSA_Arrays_Carry_Forward/Even Subarrays.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,6 +109,7 @@
     "Python.Time Complexity - Arrays.executor": "Run",
     "Python.Time to equality.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.mazing Subarrays.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -594,7 +594,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744163756991</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Add solutions to count subarrays starting with 'a' and find amazing substrings">
+      <option name="closed" value="true" />
+      <created>1744164664540</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1744164664540</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -610,7 +618,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to analyze the time complexity of a double loop in Python" />
     <MESSAGE value="Add solution to analyze the time complexity of a loop with exponential growth in Python" />
     <MESSAGE value="Add initial implementation for time complexity analysis in Python" />
     <MESSAGE value="Add solution to count elements in an array that have at least one greater element" />
@@ -635,6 +642,7 @@
     <MESSAGE value="Add solution to count subsequences &quot;AG&quot; in a given string" />
     <MESSAGE value="Add solution to find leaders in an array" />
     <MESSAGE value="Add solution to find the length of the smallest subarray containing both min and max values" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the length of the smallest subarray containing both min and max values" />
+    <MESSAGE value="Add solutions to count subarrays starting with 'a' and find amazing substrings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solutions to count subarrays starting with 'a' and find amazing substrings" />
   </component>
 </project>
