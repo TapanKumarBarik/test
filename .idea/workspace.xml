@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the maximum possible sum of elements removed from both ends of an array">
-      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Time and Space Complexity - I.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Time and Space Complexity - II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Total Number of Subarrays.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/download.pdf" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solutions for calculating total subarrays and time-space complexity of subarray sums">
+      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Subarray in given range.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -241,14 +236,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00001" summary="initialize project structure with Python module and configuration files">
-      <option name="closed" value="true" />
-      <created>1743527545490</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1743527545490</updated>
     </task>
     <task id="LOCAL-00002" summary="Add solution to count factors of a given integer">
       <option name="closed" value="true" />
@@ -634,7 +621,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744250664917</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Add solutions for calculating total subarrays and time-space complexity of subarray sums">
+      <option name="closed" value="true" />
+      <created>1744251411937</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1744251411938</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -650,7 +645,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to find good pairs in an array that sum to a given integer" />
     <MESSAGE value="Add solution to reverse elements in an array within a given range" />
     <MESSAGE value="Add solution to reverse an array" />
     <MESSAGE value="Add solution to rotate an array to the right" />
@@ -675,6 +669,7 @@
     <MESSAGE value="Add solution to determine if an array can be divided into even-length subarrays with even first and last elements" />
     <MESSAGE value="Add solution to find the minimum number of switches to turn on all bulbs" />
     <MESSAGE value="Add solution to find the maximum possible sum of elements removed from both ends of an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the maximum possible sum of elements removed from both ends of an array" />
+    <MESSAGE value="Add solutions for calculating total subarrays and time-space complexity of subarray sums" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solutions for calculating total subarrays and time-space complexity of subarray sums" />
   </component>
 </project>
