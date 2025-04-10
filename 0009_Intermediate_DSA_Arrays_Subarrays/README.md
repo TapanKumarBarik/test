@@ -1,0 +1,1 @@
+Total number of subarrays possible in an array of length N = ( N*(N+1))/2

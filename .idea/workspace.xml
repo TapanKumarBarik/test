@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the minimum number of switches to turn on all bulbs">
-      <change afterPath="$PROJECT_DIR$/0008_Intermediate_DSA_Arrays_Carry_Forward/Pick from both sides!.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the maximum possible sum of elements removed from both ends of an array">
+      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Time and Space Complexity - I.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Time and Space Complexity - II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Total Number of Subarrays.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/download.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -621,7 +626,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744208381982</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Add solution to find the maximum possible sum of elements removed from both ends of an array">
+      <option name="closed" value="true" />
+      <created>1744250664917</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1744250664917</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -637,7 +650,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to count elements in an array that have at least one greater element" />
     <MESSAGE value="Add solution to find good pairs in an array that sum to a given integer" />
     <MESSAGE value="Add solution to reverse elements in an array within a given range" />
     <MESSAGE value="Add solution to reverse an array" />
@@ -662,6 +674,7 @@
     <MESSAGE value="Add solutions to count subarrays starting with 'a' and find amazing substrings" />
     <MESSAGE value="Add solution to determine if an array can be divided into even-length subarrays with even first and last elements" />
     <MESSAGE value="Add solution to find the minimum number of switches to turn on all bulbs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the minimum number of switches to turn on all bulbs" />
+    <MESSAGE value="Add solution to find the maximum possible sum of elements removed from both ends of an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the maximum possible sum of elements removed from both ends of an array" />
   </component>
 </project>
