@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to calculate the sum of all subarray sums in an array">
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the maximum sum of a subarray not exceeding a given value">
       <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Generate all subarrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Maximum Subarray Easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Maximum Subarray Easy.py" beforeDir="false" afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Maximum Subarray Easy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +90,7 @@
     "Python.Even numbers in a range.executor": "Run",
     "Python.Find Armstrong Numbers.executor": "Run",
     "Python.Find Perfect Numbers.executor": "Run",
+    "Python.Generate all subarrays.executor": "Run",
     "Python.Good Pair.executor": "Run",
     "Python.In-place Prefix Sum.executor": "Run",
     "Python.Is Perfect Square.executor": "Run",
@@ -238,14 +238,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Add solution to find the square root of a number if it is a perfect square">
-      <option name="closed" value="true" />
-      <created>1743854960689</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1743854960689</updated>
     </task>
     <task id="LOCAL-00005" summary="Add solution to find the number of iterations for perfect squares">
       <option name="closed" value="true" />
@@ -631,7 +623,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744340998967</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Add solution to find the maximum sum of a subarray not exceeding a given value">
+      <option name="closed" value="true" />
+      <created>1744380569088</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1744380569088</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -647,7 +647,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to rotate an array to the right" />
     <MESSAGE value="Add time complexity analysis for array insertion and deletion" />
     <MESSAGE value="Add solution to find the sum of maximum and minimum elements in an array" />
     <MESSAGE value="Add solution to count occurrences of an integer in an array" />
@@ -672,6 +671,7 @@
     <MESSAGE value="Add solutions for calculating total subarrays and time-space complexity of subarray sums" />
     <MESSAGE value="Add solution to return a subarray from given start and end indices" />
     <MESSAGE value="Add solution to calculate the sum of all subarray sums in an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to calculate the sum of all subarray sums in an array" />
+    <MESSAGE value="Add solution to find the maximum sum of a subarray not exceeding a given value" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the maximum sum of a subarray not exceeding a given value" />
   </component>
 </project>

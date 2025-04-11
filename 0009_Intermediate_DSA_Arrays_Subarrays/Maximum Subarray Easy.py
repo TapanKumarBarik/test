@@ -55,3 +55,36 @@ Explanation 2:
 All elements are greater than B, which means we cannot select any subarray.
 Hence, the answer is 0.
 """
+
+class Solution:
+    # @param A : integer
+    # @param B : integer
+    # @param C : list of integers
+    # @return an integer
+    def maxSubarray(self, A, B, C):
+        ans = 0
+        for i in range(A):
+            sum = 0
+            for j in range(i, A):
+                sum += C[j]
+                if (sum <= B):
+                    ans = max(ans, sum)
+                else:
+                    break
+        return ans
+
+
+# Test cases
+if __name__ == "__main__":
+    # Example 1
+    A = 5
+    B = 12
+    C = [2, 1, 3, 4, 5]
+    solution = Solution()
+    print(solution.maxSubarray(A, B, C))  # Output: 12
+
+    # Example 2
+    A = 3
+    B = 1
+    C = [2, 2, 2]
+    print(solution.maxSubarray(A, B, C))  # Output: 0
