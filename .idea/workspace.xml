@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to return a subarray from given start and end indices">
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to calculate the sum of all subarray sums in an array">
+      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Generate all subarrays.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Maximum Subarray Easy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Sum of All Subarrays.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,14 +238,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Add solution to determine if a number is prime">
-      <option name="closed" value="true" />
-      <created>1743854744933</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1743854744933</updated>
     </task>
     <task id="LOCAL-00004" summary="Add solution to find the square root of a number if it is a perfect square">
       <option name="closed" value="true" />
@@ -632,7 +623,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744251841057</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Add solution to calculate the sum of all subarray sums in an array">
+      <option name="closed" value="true" />
+      <created>1744340998967</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1744340998967</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -648,7 +647,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to reverse an array" />
     <MESSAGE value="Add solution to rotate an array to the right" />
     <MESSAGE value="Add time complexity analysis for array insertion and deletion" />
     <MESSAGE value="Add solution to find the sum of maximum and minimum elements in an array" />
@@ -673,6 +671,7 @@
     <MESSAGE value="Add solution to find the maximum possible sum of elements removed from both ends of an array" />
     <MESSAGE value="Add solutions for calculating total subarrays and time-space complexity of subarray sums" />
     <MESSAGE value="Add solution to return a subarray from given start and end indices" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to return a subarray from given start and end indices" />
+    <MESSAGE value="Add solution to calculate the sum of all subarray sums in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to calculate the sum of all subarray sums in an array" />
   </component>
 </project>
