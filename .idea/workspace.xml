@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the maximum sum of a subarray not exceeding a given value">
-      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Generate all subarrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Maximum Subarray Easy.py" beforeDir="false" afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Maximum Subarray Easy.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to generate all subarrays from a given array">
+      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Alternating Subarrays Easy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Good Subarrays Easy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +100,7 @@
     "Python.Linear Search - Multiple Occurences.executor": "Run",
     "Python.Make it.executor": "Run",
     "Python.Max Min of an Array.executor": "Run",
+    "Python.Maximum Subarray Easy.executor": "Run",
     "Python.Number of elements in a range.executor": "Run",
     "Python.Pick from both sides!.executor": "Run",
     "Python.Product array puzzle.executor": "Run",
@@ -238,14 +240,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Add solution to find the number of iterations for perfect squares">
-      <option name="closed" value="true" />
-      <created>1743855098082</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1743855098082</updated>
     </task>
     <task id="LOCAL-00006" summary="Add solution to calculate the sum of N natural numbers">
       <option name="closed" value="true" />
@@ -631,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744380569088</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Add solution to generate all subarrays from a given array">
+      <option name="closed" value="true" />
+      <created>1744380872308</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1744380872308</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -647,7 +649,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add time complexity analysis for array insertion and deletion" />
     <MESSAGE value="Add solution to find the sum of maximum and minimum elements in an array" />
     <MESSAGE value="Add solution to count occurrences of an integer in an array" />
     <MESSAGE value="Add solution to find the second largest element in an array" />
@@ -672,6 +673,7 @@
     <MESSAGE value="Add solution to return a subarray from given start and end indices" />
     <MESSAGE value="Add solution to calculate the sum of all subarray sums in an array" />
     <MESSAGE value="Add solution to find the maximum sum of a subarray not exceeding a given value" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the maximum sum of a subarray not exceeding a given value" />
+    <MESSAGE value="Add solution to generate all subarrays from a given array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to generate all subarrays from a given array" />
   </component>
 </project>
