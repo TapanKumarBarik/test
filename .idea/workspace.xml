@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to calculate column-wise sums of a 2D matrix">
-      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Row Sum.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to calculate row-wise sums of a 2D matrix">
+      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Main Diagonal Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,6 +110,7 @@
     "Python.Range Sum Query.executor": "Run",
     "Python.Reverse in a range.executor": "Run",
     "Python.Reverse the Array.executor": "Run",
+    "Python.Row Sum.executor": "Run",
     "Python.Second Largest.executor": "Run",
     "Python.Special Subsequences_AG.executor": "Run",
     "Python.Square root of a number.executor": "Run",
@@ -242,14 +243,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Add solution to determine if a number is a perfect square">
-      <option name="closed" value="true" />
-      <created>1743863386579</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1743863386579</updated>
     </task>
     <task id="LOCAL-00010" summary="Add solution to calculate the maximum number of mango shakes from given mangoes and slices">
       <option name="closed" value="true" />
@@ -635,7 +628,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744464297386</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Add solution to calculate row-wise sums of a 2D matrix">
+      <option name="closed" value="true" />
+      <created>1744464804956</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1744464804956</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -651,7 +652,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution for range sum query in an array" />
     <MESSAGE value="Add solution to find minimum time to make all elements in an array equal" />
     <MESSAGE value="Add solutions to analyze time complexity of code snippets" />
     <MESSAGE value="Add solutions for prefix sum formula and range sum query in an array" />
@@ -676,6 +676,7 @@
     <MESSAGE value="Add solutions for identifying alternating subarrays and counting good subarrays" />
     <MESSAGE value="Add solution to count subarrays with sum less than a given value" />
     <MESSAGE value="Add solution to calculate column-wise sums of a 2D matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to calculate column-wise sums of a 2D matrix" />
+    <MESSAGE value="Add solution to calculate row-wise sums of a 2D matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to calculate row-wise sums of a 2D matrix" />
   </component>
 </project>
