@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to generate all subarrays from a given array">
-      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Alternating Subarrays Easy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Good Subarrays Easy.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solutions for identifying alternating subarrays and counting good subarrays">
+      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Counting Subarrays Easy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +92,7 @@
     "Python.Find Perfect Numbers.executor": "Run",
     "Python.Generate all subarrays.executor": "Run",
     "Python.Good Pair.executor": "Run",
+    "Python.Good Subarrays Easy.executor": "Run",
     "Python.In-place Prefix Sum.executor": "Run",
     "Python.Is Perfect Square.executor": "Run",
     "Python.IsPrime.executor": "Run",
@@ -240,14 +240,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Add solution to calculate the sum of N natural numbers">
-      <option name="closed" value="true" />
-      <created>1743855262487</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1743855262487</updated>
     </task>
     <task id="LOCAL-00007" summary="Add solution to determine if a number is perfect">
       <option name="closed" value="true" />
@@ -633,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744380872308</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Add solutions for identifying alternating subarrays and counting good subarrays">
+      <option name="closed" value="true" />
+      <created>1744382416996</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1744382416996</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -649,7 +649,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to find the sum of maximum and minimum elements in an array" />
     <MESSAGE value="Add solution to count occurrences of an integer in an array" />
     <MESSAGE value="Add solution to find the second largest element in an array" />
     <MESSAGE value="Add solution for range sum query in an array" />
@@ -674,6 +673,7 @@
     <MESSAGE value="Add solution to calculate the sum of all subarray sums in an array" />
     <MESSAGE value="Add solution to find the maximum sum of a subarray not exceeding a given value" />
     <MESSAGE value="Add solution to generate all subarrays from a given array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to generate all subarrays from a given array" />
+    <MESSAGE value="Add solutions for identifying alternating subarrays and counting good subarrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solutions for identifying alternating subarrays and counting good subarrays" />
   </component>
 </project>
