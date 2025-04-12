@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solutions for identifying alternating subarrays and counting good subarrays">
-      <change afterPath="$PROJECT_DIR$/0009_Intermediate_DSA_Arrays_Subarrays/Counting Subarrays Easy.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to count subarrays with sum less than a given value">
+      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Column Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/download.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +87,7 @@
     "Python.Count Factors - 2.executor": "Run",
     "Python.Count of elements.executor": "Run",
     "Python.Count of primes.executor": "Run",
+    "Python.Counting Subarrays Easy.executor": "Run",
     "Python.Equilibrium index of an array.executor": "Run",
     "Python.Even Subarrays.executor": "Run",
     "Python.Even numbers in a range.executor": "Run",
@@ -240,14 +243,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Add solution to determine if a number is perfect">
-      <option name="closed" value="true" />
-      <created>1743862515740</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1743862515740</updated>
     </task>
     <task id="LOCAL-00008" summary="Add solution to count prime numbers less than or equal to a given integer">
       <option name="closed" value="true" />
@@ -633,7 +628,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744382416996</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Add solution to count subarrays with sum less than a given value">
+      <option name="closed" value="true" />
+      <created>1744426266291</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1744426266291</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -649,7 +652,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to count occurrences of an integer in an array" />
     <MESSAGE value="Add solution to find the second largest element in an array" />
     <MESSAGE value="Add solution for range sum query in an array" />
     <MESSAGE value="Add solution to find minimum time to make all elements in an array equal" />
@@ -674,6 +676,7 @@
     <MESSAGE value="Add solution to find the maximum sum of a subarray not exceeding a given value" />
     <MESSAGE value="Add solution to generate all subarrays from a given array" />
     <MESSAGE value="Add solutions for identifying alternating subarrays and counting good subarrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solutions for identifying alternating subarrays and counting good subarrays" />
+    <MESSAGE value="Add solution to count subarrays with sum less than a given value" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to count subarrays with sum less than a given value" />
   </component>
 </project>
