@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to calculate the sum of main diagonal elements in a 2D matrix">
-      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Minor Diagonal Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to calculate the sum of minor diagonal elements in a 2D matrix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +75,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python. Find Iterations.executor": "Run",
+    "Python.Anti Diagonals.executor": "Run",
     "Python.Array Rotation.executor": "Run",
     "Python.Best Time to Buy and Sell Stocks I.executor": "Run",
     "Python.Bulbs.executor": "Run",
@@ -102,8 +100,10 @@
     "Python.Linear Search - Multiple Occurences.executor": "Run",
     "Python.Main Diagonal Sum.executor": "Run",
     "Python.Make it.executor": "Run",
+    "Python.Matrix Transpose.executor": "Run",
     "Python.Max Min of an Array.executor": "Run",
     "Python.Maximum Subarray Easy.executor": "Run",
+    "Python.Minor Diagonal Sum.executor": "Run",
     "Python.Number of elements in a range.executor": "Run",
     "Python.Pick from both sides!.executor": "Run",
     "Python.Product array puzzle.executor": "Run",
@@ -244,14 +244,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Add solution to count the number of elements in a given range">
-      <option name="closed" value="true" />
-      <created>1743864097282</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1743864097282</updated>
     </task>
     <task id="LOCAL-00012" summary="Add solution to find Armstrong numbers in a given range">
       <option name="closed" value="true" />
@@ -637,7 +629,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744465112400</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Add solution to calculate the sum of minor diagonal elements in a 2D matrix">
+      <option name="closed" value="true" />
+      <created>1744467021196</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1744467021196</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -653,7 +653,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solutions to analyze time complexity of code snippets" />
     <MESSAGE value="Add solutions for prefix sum formula and range sum query in an array" />
     <MESSAGE value="Add solution for in-place prefix sum calculation in an array" />
     <MESSAGE value="Add solution to find the equilibrium index of an array" />
@@ -678,6 +677,7 @@
     <MESSAGE value="Add solution to calculate column-wise sums of a 2D matrix" />
     <MESSAGE value="Add solution to calculate row-wise sums of a 2D matrix" />
     <MESSAGE value="Add solution to calculate the sum of main diagonal elements in a 2D matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to calculate the sum of main diagonal elements in a 2D matrix" />
+    <MESSAGE value="Add solution to calculate the sum of minor diagonal elements in a 2D matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to calculate the sum of minor diagonal elements in a 2D matrix" />
   </component>
 </project>

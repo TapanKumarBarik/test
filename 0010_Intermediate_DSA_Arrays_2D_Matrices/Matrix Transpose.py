@@ -1,0 +1,125 @@
+"""
+Problem Description
+
+Given a 2D integer array A, return the transpose of A.
+
+The transpose of a matrix is the matrix flipped over its main diagonal, switching the matrix's row and column indices.
+
+
+Problem Constraints
+
+1 <= A.size() <= 1000
+
+
+
+
+
+
+1 <= A[i].size() <= 1000
+
+1 <= A[i][j] <= 1000
+
+
+
+
+
+
+Input Format
+
+First argument is a 2D matrix of integers.
+
+
+
+
+
+Output Format
+
+You have to return the Transpose of this 2D matrix.
+
+
+
+Example Input
+
+Input 1:
+
+
+
+
+A = [[1, 2, 3],[4, 5, 6],[7, 8, 9]]
+Input 2:
+
+A = [[1, 2],[1, 2],[1, 2]]
+
+
+
+
+
+Example Output
+
+Output 1:
+
+
+
+
+
+
+[[1, 4, 7], [2, 5, 8], [3, 6, 9]]
+Output 2:
+
+
+
+
+
+
+
+
+
+[[1, 1, 1], [2, 2, 2]]
+
+
+
+
+
+Example Explanation
+
+Explanation 1:
+
+Clearly after converting rows to column and columns to rows of [[1, 2, 3],[4, 5, 6],[7, 8, 9]]
+ we will get [[1, 4, 7], [2, 5, 8], [3, 6, 9]].
+Explanation 2:
+
+After transposing the matrix, A becomes [[1, 1, 1], [2, 2, 2]]
+"""
+
+
+class Solution:
+    # @param A : list of list of integers
+    # @return a list of list of integers
+    def solve(self, A):
+        # [
+        #    [1, 2, 3],
+        #    [4, 5, 6],
+        #    [7, 8, 9]
+        # ]
+
+        res = []
+
+        for i in range(len(A[0])):
+            temp_arr = []
+            for j in range(len(A)):
+                temp_arr.append(A[j][i])
+            res.append(temp_arr.copy())
+
+        return res
+
+
+# Time Complexity: O(N^2)
+# Space Complexity: O(N^2)
+# Test the code
+if __name__ == "__main__":
+    A = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+    obj = Solution()
+    print(obj.solve(A))  # Expected Output: [[1, 4, 7], [2, 5, 8], [3, 6, 9]]
+    A = [[1, 2], [1, 2], [1, 2]]
+    print(obj.solve(A))  # Expected Output: [[1, 1, 1], [2, 2, 2]]
+    # Test the code with different test cases
