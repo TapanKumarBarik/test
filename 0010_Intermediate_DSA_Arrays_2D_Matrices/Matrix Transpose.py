@@ -101,16 +101,7 @@ class Solution:
         #    [4, 5, 6],
         #    [7, 8, 9]
         # ]
-
-        res = []
-
-        for i in range(len(A[0])):
-            temp_arr = []
-            for j in range(len(A)):
-                temp_arr.append(A[j][i])
-            res.append(temp_arr.copy())
-
-        return res
+        pass
 
 
 # Time Complexity: O(N^2)
