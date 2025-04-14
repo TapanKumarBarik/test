@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to check if two matrices are equal">
-      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Add the matrices.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to perform matrix addition">
+      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Matrix Subtraction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +78,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python. Find Iterations.executor": "Run",
+    "Python.Add the matrices.executor": "Run",
     "Python.Anti Diagonals.executor": "Run",
     "Python.Array Rotation.executor": "Run",
     "Python.Best Time to Buy and Sell Stocks I.executor": "Run",
@@ -248,14 +249,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Add solution to analyze the time complexity of a linear loop in Python">
-      <option name="closed" value="true" />
-      <created>1743867315266</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1743867315266</updated>
     </task>
     <task id="LOCAL-00017" summary="Add solution to analyze the time complexity of a loop with a condition in Python">
       <option name="closed" value="true" />
@@ -641,7 +634,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744600665011</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Add solution to perform matrix addition">
+      <option name="closed" value="true" />
+      <created>1744600933061</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1744600933061</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -657,7 +658,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solutions for prefix sum queries in an array" />
     <MESSAGE value="Add solution to compute the product array without using division" />
     <MESSAGE value="Add solution to find all valid subarrays in an array" />
     <MESSAGE value="Add solution to count subsequences &quot;AG&quot; in a given string" />
@@ -682,6 +682,7 @@
     <MESSAGE value="Add solution to rotate a 2D matrix by 90 degrees clockwise" />
     <MESSAGE value="Add solution for scalar multiplication of a matrix by an integer" />
     <MESSAGE value="Add solution to check if two matrices are equal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to check if two matrices are equal" />
+    <MESSAGE value="Add solution to perform matrix addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to perform matrix addition" />
   </component>
 </project>
