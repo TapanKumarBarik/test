@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to rotate a 2D matrix by 90 degrees clockwise">
-      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Matrix Scalar Product.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution for scalar multiplication of a matrix by an integer">
+      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Are Matrices Same.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Matrix Transpose.py" beforeDir="false" afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Matrix Transpose.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,68 +74,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python. Find Iterations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Anti Diagonals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Array Rotation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Best Time to Buy and Sell Stocks I.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Bulbs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Closest MinMax.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Column Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Count Factors - 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Count of elements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Count of primes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Counting Subarrays Easy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Equilibrium index of an array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Even Subarrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Even numbers in a range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Find Armstrong Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Find Perfect Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Generate all subarrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Good Pair.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Good Subarrays Easy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.In-place Prefix Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Is Perfect Square.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IsPrime.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Leaders in an array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Linear Search - Multiple Occurences.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Main Diagonal Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Make it.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Matrix Transpose.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Max Min of an Array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Maximum Subarray Easy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Minor Diagonal Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Number of elements in a range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pick from both sides!.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Product array puzzle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Range Sum Query - II.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Range Sum Query.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Reverse in a range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Reverse the Array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Row Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Second Largest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Special Subsequences_AG.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Square root of a number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Subarray in given range.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sum of N natural numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Time Complexity - Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Time to equality.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mazing Subarrays.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python. Find Iterations.executor": "Run",
+    "Python.Anti Diagonals.executor": "Run",
+    "Python.Array Rotation.executor": "Run",
+    "Python.Best Time to Buy and Sell Stocks I.executor": "Run",
+    "Python.Bulbs.executor": "Run",
+    "Python.Closest MinMax.executor": "Run",
+    "Python.Column Sum.executor": "Run",
+    "Python.Count Factors - 2.executor": "Run",
+    "Python.Count of elements.executor": "Run",
+    "Python.Count of primes.executor": "Run",
+    "Python.Counting Subarrays Easy.executor": "Run",
+    "Python.Equilibrium index of an array.executor": "Run",
+    "Python.Even Subarrays.executor": "Run",
+    "Python.Even numbers in a range.executor": "Run",
+    "Python.Find Armstrong Numbers.executor": "Run",
+    "Python.Find Perfect Numbers.executor": "Run",
+    "Python.Generate all subarrays.executor": "Run",
+    "Python.Good Pair.executor": "Run",
+    "Python.Good Subarrays Easy.executor": "Run",
+    "Python.In-place Prefix Sum.executor": "Run",
+    "Python.Is Perfect Square.executor": "Run",
+    "Python.IsPrime.executor": "Run",
+    "Python.Leaders in an array.executor": "Run",
+    "Python.Linear Search - Multiple Occurences.executor": "Run",
+    "Python.Main Diagonal Sum.executor": "Run",
+    "Python.Make it.executor": "Run",
+    "Python.Matrix Scalar Product.executor": "Run",
+    "Python.Matrix Transpose.executor": "Run",
+    "Python.Max Min of an Array.executor": "Run",
+    "Python.Maximum Subarray Easy.executor": "Run",
+    "Python.Minor Diagonal Sum.executor": "Run",
+    "Python.Number of elements in a range.executor": "Run",
+    "Python.Pick from both sides!.executor": "Run",
+    "Python.Product array puzzle.executor": "Run",
+    "Python.Range Sum Query - II.executor": "Run",
+    "Python.Range Sum Query.executor": "Run",
+    "Python.Reverse in a range.executor": "Run",
+    "Python.Reverse the Array.executor": "Run",
+    "Python.Row Sum.executor": "Run",
+    "Python.Second Largest.executor": "Run",
+    "Python.Special Subsequences_AG.executor": "Run",
+    "Python.Square root of a number.executor": "Run",
+    "Python.Subarray in given range.executor": "Run",
+    "Python.Sum of N natural numbers.executor": "Run",
+    "Python.Time Complexity - Arrays.executor": "Run",
+    "Python.Time to equality.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mazing Subarrays.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Scalar\Scalar\0006_Intermediate_DSA_Introduction to Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="Count Factors - 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scalar" />
       <option name="ENV_FILES" value="" />
@@ -248,14 +248,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Add solution to analyze the time complexity of code snippets in C++, Java, and Python">
-      <option name="closed" value="true" />
-      <created>1743866522295</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1743866522295</updated>
     </task>
     <task id="LOCAL-00015" summary="Add solution to analyze the time complexity of a Python code snippet">
       <option name="closed" value="true" />
@@ -641,7 +633,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744600178192</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Add solution for scalar multiplication of a matrix by an integer">
+      <option name="closed" value="true" />
+      <created>1744600484025</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1744600484025</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -657,7 +657,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to find the equilibrium index of an array" />
     <MESSAGE value="Add solution to count even numbers in specified ranges of an array" />
     <MESSAGE value="Add solutions for prefix sum queries in an array" />
     <MESSAGE value="Add solution to compute the product array without using division" />
@@ -682,6 +681,7 @@
     <MESSAGE value="Add solution to calculate the sum of minor diagonal elements in a 2D matrix" />
     <MESSAGE value="Add solution to return anti-diagonals of a 2D matrix" />
     <MESSAGE value="Add solution to rotate a 2D matrix by 90 degrees clockwise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to rotate a 2D matrix by 90 degrees clockwise" />
+    <MESSAGE value="Add solution for scalar multiplication of a matrix by an integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution for scalar multiplication of a matrix by an integer" />
   </component>
 </project>
