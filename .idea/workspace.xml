@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to perform matrix addition">
-      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Matrix Subtraction.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to perform matrix subtraction">
+      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Row to Column Zero.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +105,7 @@
     "Python.Main Diagonal Sum.executor": "Run",
     "Python.Make it.executor": "Run",
     "Python.Matrix Scalar Product.executor": "Run",
+    "Python.Matrix Subtraction.executor": "Run",
     "Python.Matrix Transpose.executor": "Run",
     "Python.Max Min of an Array.executor": "Run",
     "Python.Maximum Subarray Easy.executor": "Run",
@@ -117,6 +118,7 @@
     "Python.Reverse in a range.executor": "Run",
     "Python.Reverse the Array.executor": "Run",
     "Python.Row Sum.executor": "Run",
+    "Python.Row to Column Zero.executor": "Run",
     "Python.Second Largest.executor": "Run",
     "Python.Special Subsequences_AG.executor": "Run",
     "Python.Square root of a number.executor": "Run",
@@ -249,14 +251,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Add solution to analyze the time complexity of a loop with a condition in Python">
-      <option name="closed" value="true" />
-      <created>1743867461052</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1743867461052</updated>
     </task>
     <task id="LOCAL-00018" summary="Add solution to analyze the time complexity of a nested loop with doubling in Python">
       <option name="closed" value="true" />
@@ -642,7 +636,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744600933061</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Add solution to perform matrix subtraction">
+      <option name="closed" value="true" />
+      <created>1744601066128</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1744601066128</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -658,7 +660,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to compute the product array without using division" />
     <MESSAGE value="Add solution to find all valid subarrays in an array" />
     <MESSAGE value="Add solution to count subsequences &quot;AG&quot; in a given string" />
     <MESSAGE value="Add solution to find leaders in an array" />
@@ -683,6 +684,7 @@
     <MESSAGE value="Add solution for scalar multiplication of a matrix by an integer" />
     <MESSAGE value="Add solution to check if two matrices are equal" />
     <MESSAGE value="Add solution to perform matrix addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to perform matrix addition" />
+    <MESSAGE value="Add solution to perform matrix subtraction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to perform matrix subtraction" />
   </component>
 </project>
