@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to return anti-diagonals of a 2D matrix">
-      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Rotate Matrix.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to rotate a 2D matrix by 90 degrees clockwise">
+      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Matrix Scalar Product.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Matrix Transpose.py" beforeDir="false" afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Matrix Transpose.py" afterDir="false" />
     </list>
@@ -248,14 +248,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Add solution to determine the number of times to divide a number by 2 until it reaches 1">
-      <option name="closed" value="true" />
-      <created>1743865805890</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1743865805890</updated>
     </task>
     <task id="LOCAL-00014" summary="Add solution to analyze the time complexity of code snippets in C++, Java, and Python">
       <option name="closed" value="true" />
@@ -641,7 +633,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744519016156</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Add solution to rotate a 2D matrix by 90 degrees clockwise">
+      <option name="closed" value="true" />
+      <created>1744600178192</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1744600178192</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -657,7 +657,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution for in-place prefix sum calculation in an array" />
     <MESSAGE value="Add solution to find the equilibrium index of an array" />
     <MESSAGE value="Add solution to count even numbers in specified ranges of an array" />
     <MESSAGE value="Add solutions for prefix sum queries in an array" />
@@ -682,6 +681,7 @@
     <MESSAGE value="Add solution to calculate the sum of main diagonal elements in a 2D matrix" />
     <MESSAGE value="Add solution to calculate the sum of minor diagonal elements in a 2D matrix" />
     <MESSAGE value="Add solution to return anti-diagonals of a 2D matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to return anti-diagonals of a 2D matrix" />
+    <MESSAGE value="Add solution to rotate a 2D matrix by 90 degrees clockwise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to rotate a 2D matrix by 90 degrees clockwise" />
   </component>
 </project>
