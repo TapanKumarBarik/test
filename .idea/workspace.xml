@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to perform matrix subtraction">
-      <change afterPath="$PROJECT_DIR$/0010_Intermediate_DSA_Arrays_2D_Matrices/Row to Column Zero.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to set entire row and column to zero in a matrix">
+      <change afterPath="$PROJECT_DIR$/0011_Intermediate_DSA_Arrays_Sliding_Window/Subarray with given sum and length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0011_Intermediate_DSA_Arrays_Sliding_Window/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0011_Intermediate_DSA_Arrays_Sliding_Window/download.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -251,14 +253,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Add solution to analyze the time complexity of a nested loop with doubling in Python">
-      <option name="closed" value="true" />
-      <created>1743868021421</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1743868021421</updated>
     </task>
     <task id="LOCAL-00019" summary="Add solution to analyze the time complexity of a double loop in Python">
       <option name="closed" value="true" />
@@ -644,7 +638,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744601066128</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Add solution to set entire row and column to zero in a matrix">
+      <option name="closed" value="true" />
+      <created>1744601711727</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1744601711727</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -660,7 +662,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to find all valid subarrays in an array" />
     <MESSAGE value="Add solution to count subsequences &quot;AG&quot; in a given string" />
     <MESSAGE value="Add solution to find leaders in an array" />
     <MESSAGE value="Add solution to find the length of the smallest subarray containing both min and max values" />
@@ -685,6 +686,7 @@
     <MESSAGE value="Add solution to check if two matrices are equal" />
     <MESSAGE value="Add solution to perform matrix addition" />
     <MESSAGE value="Add solution to perform matrix subtraction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to perform matrix subtraction" />
+    <MESSAGE value="Add solution to set entire row and column to zero in a matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to set entire row and column to zero in a matrix" />
   </component>
 </project>
