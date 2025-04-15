@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to set entire row and column to zero in a matrix">
-      <change afterPath="$PROJECT_DIR$/0011_Intermediate_DSA_Arrays_Sliding_Window/Subarray with given sum and length.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0011_Intermediate_DSA_Arrays_Sliding_Window/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0011_Intermediate_DSA_Arrays_Sliding_Window/download.pdf" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find a subarray of given length with a specific sum">
+      <change afterPath="$PROJECT_DIR$/0011_Intermediate_DSA_Arrays_Sliding_Window/Minimum Swaps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +109,7 @@
     "Python.Matrix Transpose.executor": "Run",
     "Python.Max Min of an Array.executor": "Run",
     "Python.Maximum Subarray Easy.executor": "Run",
+    "Python.Minimum Swaps.executor": "Run",
     "Python.Minor Diagonal Sum.executor": "Run",
     "Python.Number of elements in a range.executor": "Run",
     "Python.Pick from both sides!.executor": "Run",
@@ -125,6 +124,7 @@
     "Python.Special Subsequences_AG.executor": "Run",
     "Python.Square root of a number.executor": "Run",
     "Python.Subarray in given range.executor": "Run",
+    "Python.Subarray with given sum and length.executor": "Run",
     "Python.Sum of N natural numbers.executor": "Run",
     "Python.Time Complexity - Arrays.executor": "Run",
     "Python.Time to equality.executor": "Run",
@@ -253,14 +253,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Add solution to analyze the time complexity of a double loop in Python">
-      <option name="closed" value="true" />
-      <created>1743868155922</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1743868155922</updated>
     </task>
     <task id="LOCAL-00020" summary="Add solution to analyze the time complexity of a loop with exponential growth in Python">
       <option name="closed" value="true" />
@@ -646,7 +638,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744601711727</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Add solution to find a subarray of given length with a specific sum">
+      <option name="closed" value="true" />
+      <created>1744680192723</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1744680192723</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -662,7 +662,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to count subsequences &quot;AG&quot; in a given string" />
     <MESSAGE value="Add solution to find leaders in an array" />
     <MESSAGE value="Add solution to find the length of the smallest subarray containing both min and max values" />
     <MESSAGE value="Add solutions to count subarrays starting with 'a' and find amazing substrings" />
@@ -687,6 +686,7 @@
     <MESSAGE value="Add solution to perform matrix addition" />
     <MESSAGE value="Add solution to perform matrix subtraction" />
     <MESSAGE value="Add solution to set entire row and column to zero in a matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to set entire row and column to zero in a matrix" />
+    <MESSAGE value="Add solution to find a subarray of given length with a specific sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find a subarray of given length with a specific sum" />
   </component>
 </project>
