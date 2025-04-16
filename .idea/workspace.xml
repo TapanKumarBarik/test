@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find a subarray of given length with a specific sum">
-      <change afterPath="$PROJECT_DIR$/0011_Intermediate_DSA_Arrays_Sliding_Window/Minimum Swaps.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the minimum number of swaps to group elements less than or equal to a given value">
+      <change afterPath="$PROJECT_DIR$/0011_Intermediate_DSA_Arrays_Sliding_Window/Spiral Order Matrix II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0011_Intermediate_DSA_Arrays_Sliding_Window/Subarray with least average.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -253,14 +254,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Add solution to analyze the time complexity of a loop with exponential growth in Python">
-      <option name="closed" value="true" />
-      <created>1743869608481</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1743869608481</updated>
     </task>
     <task id="LOCAL-00021" summary="Add initial implementation for time complexity analysis in Python">
       <option name="closed" value="true" />
@@ -646,7 +639,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744680192723</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Add solution to find the minimum number of swaps to group elements less than or equal to a given value">
+      <option name="closed" value="true" />
+      <created>1744682901212</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1744682901212</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -662,7 +663,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to find leaders in an array" />
     <MESSAGE value="Add solution to find the length of the smallest subarray containing both min and max values" />
     <MESSAGE value="Add solutions to count subarrays starting with 'a' and find amazing substrings" />
     <MESSAGE value="Add solution to determine if an array can be divided into even-length subarrays with even first and last elements" />
@@ -687,6 +687,7 @@
     <MESSAGE value="Add solution to perform matrix subtraction" />
     <MESSAGE value="Add solution to set entire row and column to zero in a matrix" />
     <MESSAGE value="Add solution to find a subarray of given length with a specific sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find a subarray of given length with a specific sum" />
+    <MESSAGE value="Add solution to find the minimum number of swaps to group elements less than or equal to a given value" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the minimum number of swaps to group elements less than or equal to a given value" />
   </component>
 </project>
