@@ -66,3 +66,10 @@ Explanation 2:
 4<--- 3
 Explanation 3:
 """
+
+class Solution:
+    # @param A : integer
+    # @return a list of list of integers
+    def generateMatrix(self, A):
+    pass
+#TODO
