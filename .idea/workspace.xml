@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to generate a square matrix in spiral order">
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add initial implementation for generating a square matrix in spiral order">
+      <change afterPath="$PROJECT_DIR$/0012_Intermediate_DSA_Arrays_Interview_Problems_1/100 People in a Circle.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0012_Intermediate_DSA_Arrays_Interview_Problems_1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0012_Intermediate_DSA_Arrays_Interview_Problems_1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0012_Intermediate_DSA_Arrays_Interview_Problems_1/download.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0011_Intermediate_DSA_Arrays_Sliding_Window/Spiral Order Matrix II.py" beforeDir="false" afterPath="$PROJECT_DIR$/0011_Intermediate_DSA_Arrays_Sliding_Window/Spiral Order Matrix II.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +137,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -254,14 +257,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Add solution to count elements in an array that have at least one greater element">
-      <option name="closed" value="true" />
-      <created>1743914189851</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1743914189851</updated>
     </task>
     <task id="LOCAL-00023" summary="Add solution to find good pairs in an array that sum to a given integer">
       <option name="closed" value="true" />
@@ -647,7 +642,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744769517013</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Add initial implementation for generating a square matrix in spiral order">
+      <option name="closed" value="true" />
+      <created>1744781874180</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1744781874180</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -663,7 +666,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solutions to count subarrays starting with 'a' and find amazing substrings" />
     <MESSAGE value="Add solution to determine if an array can be divided into even-length subarrays with even first and last elements" />
     <MESSAGE value="Add solution to find the minimum number of switches to turn on all bulbs" />
     <MESSAGE value="Add solution to find the maximum possible sum of elements removed from both ends of an array" />
@@ -688,6 +690,7 @@
     <MESSAGE value="Add solution to find a subarray of given length with a specific sum" />
     <MESSAGE value="Add solution to find the minimum number of swaps to group elements less than or equal to a given value" />
     <MESSAGE value="Add solution to generate a square matrix in spiral order" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to generate a square matrix in spiral order" />
+    <MESSAGE value="Add initial implementation for generating a square matrix in spiral order" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add initial implementation for generating a square matrix in spiral order" />
   </component>
 </project>
