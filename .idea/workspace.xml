@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the length of the longest consecutive 1's after one swap in a binary string">
-      <change afterPath="$PROJECT_DIR$/0012_Intermediate_DSA_Arrays_Interview_Problems_1/Count Increasing Triplets.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to count increasing triplets in an array">
+      <change afterPath="$PROJECT_DIR$/0012_Intermediate_DSA_Arrays_Interview_Problems_1/Josephus Problem - 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +100,7 @@
     "Python.In-place Prefix Sum.executor": "Run",
     "Python.Is Perfect Square.executor": "Run",
     "Python.IsPrime.executor": "Run",
+    "Python.Josephus Problem - 2.executor": "Run",
     "Python.Leaders in an array.executor": "Run",
     "Python.Length of longest consecutive ones.executor": "Run",
     "Python.Linear Search - Multiple Occurences.executor": "Run",
@@ -255,14 +256,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Add solution to reverse elements in an array within a given range">
-      <option name="closed" value="true" />
-      <created>1743916213375</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1743916213375</updated>
     </task>
     <task id="LOCAL-00026" summary="Add solution to reverse an array">
       <option name="closed" value="true" />
@@ -648,7 +641,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744968859180</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Add solution to count increasing triplets in an array">
+      <option name="closed" value="true" />
+      <created>1744985170879</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1744985170879</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -664,7 +665,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to find the maximum possible sum of elements removed from both ends of an array" />
     <MESSAGE value="Add solutions for calculating total subarrays and time-space complexity of subarray sums" />
     <MESSAGE value="Add solution to return a subarray from given start and end indices" />
     <MESSAGE value="Add solution to calculate the sum of all subarray sums in an array" />
@@ -689,6 +689,7 @@
     <MESSAGE value="Add initial implementation for generating a square matrix in spiral order" />
     <MESSAGE value="Add problem statement for &quot;100 People in a Circle&quot; challenge" />
     <MESSAGE value="Add solution to find the length of the longest consecutive 1's after one swap in a binary string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the length of the longest consecutive 1's after one swap in a binary string" />
+    <MESSAGE value="Add solution to count increasing triplets in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to count increasing triplets in an array" />
   </component>
 </project>
