@@ -96,3 +96,6 @@ if __name__ == "__main__":
     B = [[0, 3], [2, 4]]
     obj = Solution()
     print(obj.solve(A, B))  # Output: [10, 17]
+
+
+
