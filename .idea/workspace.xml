@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for multiple left rotations of an array">
-      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/download.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/Sum of even indices.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +146,7 @@
       <recent name="C:\Scalar\Scalar\0006_Intermediate_DSA_Introduction to Arrays" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Count Factors - 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scalar" />
       <option name="ENV_FILES" value="" />
@@ -252,14 +251,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Add solution to count occurrences of an integer in an array">
-      <option name="closed" value="true" />
-      <created>1743956950060</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1743956950060</updated>
     </task>
     <task id="LOCAL-00031" summary="Add solution to find the second largest element in an array">
       <option name="closed" value="true" />
@@ -645,7 +636,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745030516318</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Add problem statement and solution for multiple left rotations of an array">
+      <option name="closed" value="true" />
+      <created>1745030949159</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1745030949159</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
