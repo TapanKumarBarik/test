@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution for the Josephus Problem">
-      <change afterPath="$PROJECT_DIR$/0012_Intermediate_DSA_Arrays_Interview_Problems_1/Maximum positivity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution to find the maximum size subarray of non-negative elements">
+      <change beforePath="$PROJECT_DIR$/0012_Intermediate_DSA_Arrays_Interview_Problems_1/Maximum positivity.py" beforeDir="false" afterPath="$PROJECT_DIR$/0012_Intermediate_DSA_Arrays_Interview_Problems_1/Maximum positivity.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +110,7 @@
     "Python.Matrix Transpose.executor": "Run",
     "Python.Max Min of an Array.executor": "Run",
     "Python.Maximum Subarray Easy.executor": "Run",
+    "Python.Maximum positivity.executor": "Run",
     "Python.Minimum Swaps.executor": "Run",
     "Python.Minor Diagonal Sum.executor": "Run",
     "Python.Number of elements in a range.executor": "Run",
@@ -256,14 +256,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Add solution to rotate an array to the right">
-      <option name="closed" value="true" />
-      <created>1743917419184</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1743917419184</updated>
     </task>
     <task id="LOCAL-00028" summary="Add time complexity analysis for array insertion and deletion">
       <option name="closed" value="true" />
@@ -649,7 +641,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744987072848</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Add solution to find the maximum size subarray of non-negative elements">
+      <option name="closed" value="true" />
+      <created>1744988799048</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1744988799048</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -665,7 +665,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to return a subarray from given start and end indices" />
     <MESSAGE value="Add solution to calculate the sum of all subarray sums in an array" />
     <MESSAGE value="Add solution to find the maximum sum of a subarray not exceeding a given value" />
     <MESSAGE value="Add solution to generate all subarrays from a given array" />
@@ -690,6 +689,7 @@
     <MESSAGE value="Add solution to find the length of the longest consecutive 1's after one swap in a binary string" />
     <MESSAGE value="Add solution to count increasing triplets in an array" />
     <MESSAGE value="Add solution for the Josephus Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution for the Josephus Problem" />
+    <MESSAGE value="Add solution to find the maximum size subarray of non-negative elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to find the maximum size subarray of non-negative elements" />
   </component>
 </project>
