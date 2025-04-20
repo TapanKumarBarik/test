@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for finding the majority element in an array">
-      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/Color of the last ball II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/Color of the last ball.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/Ratio of Boys and Girls.md" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for determining the color of the last ball in a bag">
+      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/N by 3 Repeat Number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -257,14 +255,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Add solution for in-place prefix sum calculation in an array">
-      <option name="closed" value="true" />
-      <created>1744043822273</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1744043822273</updated>
     </task>
     <task id="LOCAL-00037" summary="Add solution to find the equilibrium index of an array">
       <option name="closed" value="true" />
@@ -650,7 +640,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745112160815</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Add problem statement and solution for determining the color of the last ball in a bag">
+      <option name="closed" value="true" />
+      <created>1745118463345</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1745118463345</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -666,7 +664,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to calculate column-wise sums of a 2D matrix" />
     <MESSAGE value="Add solution to calculate row-wise sums of a 2D matrix" />
     <MESSAGE value="Add solution to calculate the sum of main diagonal elements in a 2D matrix" />
     <MESSAGE value="Add solution to calculate the sum of minor diagonal elements in a 2D matrix" />
@@ -691,6 +688,7 @@
     <MESSAGE value="Add problem statement and solution for sum of odd indices in an array" />
     <MESSAGE value="Add problem statement and solution for counting indices to balance even and odd indexed sums in an array" />
     <MESSAGE value="Add problem statement and solution for finding the majority element in an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for finding the majority element in an array" />
+    <MESSAGE value="Add problem statement and solution for determining the color of the last ball in a bag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for determining the color of the last ball in a bag" />
   </component>
 </project>
