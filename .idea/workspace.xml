@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statements and solutions for binary addition, binary to decimal conversion, and bit operations">
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Any base to decimal.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for converting a number from any base to decimal">
+      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Decimal to Any Base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -257,14 +257,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Add solution to compute the product array without using division">
-      <option name="closed" value="true" />
-      <created>1744119918047</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1744119918047</updated>
     </task>
     <task id="LOCAL-00041" summary="Add solution to find all valid subarrays in an array">
       <option name="closed" value="true" />
@@ -650,7 +642,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745125087761</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Add problem statement and solution for converting a number from any base to decimal">
+      <option name="closed" value="true" />
+      <created>1745129712759</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1745129712759</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -666,7 +666,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to calculate the sum of minor diagonal elements in a 2D matrix" />
     <MESSAGE value="Add solution to return anti-diagonals of a 2D matrix" />
     <MESSAGE value="Add solution to rotate a 2D matrix by 90 degrees clockwise" />
     <MESSAGE value="Add solution for scalar multiplication of a matrix by an integer" />
@@ -691,6 +690,7 @@
     <MESSAGE value="Add problem statement and solution for determining the color of the last ball in a bag" />
     <MESSAGE value="Add problem statement and solution for finding an integer that occurs more than N/3 times in an array" />
     <MESSAGE value="Add problem statements and solutions for binary addition, binary to decimal conversion, and bit operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statements and solutions for binary addition, binary to decimal conversion, and bit operations" />
+    <MESSAGE value="Add problem statement and solution for converting a number from any base to decimal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for converting a number from any base to decimal" />
   </component>
 </project>
