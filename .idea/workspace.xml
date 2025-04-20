@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for finding an integer that occurs more than N/3 times in an array">
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Binary Addition.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Binary to Decimal - III.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Bit Operations - 1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Bit Operations - 5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Bit Operations .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Decimal to Binary - MCQ.md" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statements and solutions for binary addition, binary to decimal conversion, and bit operations">
+      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Any base to decimal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +80,7 @@
     "Python. Find Iterations.executor": "Run",
     "Python.Add the matrices.executor": "Run",
     "Python.Anti Diagonals.executor": "Run",
+    "Python.Any base to decimal.executor": "Run",
     "Python.Array Rotation.executor": "Run",
     "Python.Best Time to Buy and Sell Stocks I.executor": "Run",
     "Python.Bulbs.executor": "Run",
@@ -261,14 +257,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Add solutions for prefix sum queries in an array">
-      <option name="closed" value="true" />
-      <created>1744118498299</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1744118498299</updated>
     </task>
     <task id="LOCAL-00040" summary="Add solution to compute the product array without using division">
       <option name="closed" value="true" />
@@ -654,7 +642,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745123978218</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Add problem statements and solutions for binary addition, binary to decimal conversion, and bit operations">
+      <option name="closed" value="true" />
+      <created>1745125087761</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1745125087761</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -670,7 +666,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to calculate the sum of main diagonal elements in a 2D matrix" />
     <MESSAGE value="Add solution to calculate the sum of minor diagonal elements in a 2D matrix" />
     <MESSAGE value="Add solution to return anti-diagonals of a 2D matrix" />
     <MESSAGE value="Add solution to rotate a 2D matrix by 90 degrees clockwise" />
@@ -695,6 +690,7 @@
     <MESSAGE value="Add problem statement and solution for finding the majority element in an array" />
     <MESSAGE value="Add problem statement and solution for determining the color of the last ball in a bag" />
     <MESSAGE value="Add problem statement and solution for finding an integer that occurs more than N/3 times in an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for finding an integer that occurs more than N/3 times in an array" />
+    <MESSAGE value="Add problem statements and solutions for binary addition, binary to decimal conversion, and bit operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statements and solutions for binary addition, binary to decimal conversion, and bit operations" />
   </component>
 </project>
