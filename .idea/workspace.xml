@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for finding an integer that occurs more than N/3 times in an array">
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/download.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Binary Addition.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Binary to Decimal - III.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Bit Operations - 1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Bit Operations - 5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Bit Operations .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Decimal to Binary - MCQ.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -257,14 +261,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Add solution to count even numbers in specified ranges of an array">
-      <option name="closed" value="true" />
-      <created>1744118233666</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1744118233666</updated>
     </task>
     <task id="LOCAL-00039" summary="Add solutions for prefix sum queries in an array">
       <option name="closed" value="true" />
@@ -650,7 +646,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745119189989</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Add problem statement and solution for finding an integer that occurs more than N/3 times in an array">
+      <option name="closed" value="true" />
+      <created>1745123978218</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1745123978218</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
