@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for counting indices to balance even and odd indexed sums in an array">
-      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/Majority Element.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for finding the majority element in an array">
+      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/Color of the last ball II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/Color of the last ball.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/Ratio of Boys and Girls.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +107,7 @@
     "Python.Length of longest consecutive ones.executor": "Run",
     "Python.Linear Search - Multiple Occurences.executor": "Run",
     "Python.Main Diagonal Sum.executor": "Run",
+    "Python.Majority Element.executor": "Run",
     "Python.Make it.executor": "Run",
     "Python.Matrix Scalar Product.executor": "Run",
     "Python.Matrix Subtraction.executor": "Run",
@@ -254,14 +257,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Add solutions for prefix sum formula and range sum query in an array">
-      <option name="closed" value="true" />
-      <created>1743959349076</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1743959349076</updated>
     </task>
     <task id="LOCAL-00036" summary="Add solution for in-place prefix sum calculation in an array">
       <option name="closed" value="true" />
@@ -647,7 +642,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745111702546</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Add problem statement and solution for finding the majority element in an array">
+      <option name="closed" value="true" />
+      <created>1745112160815</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1745112160815</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -663,7 +666,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to count subarrays with sum less than a given value" />
     <MESSAGE value="Add solution to calculate column-wise sums of a 2D matrix" />
     <MESSAGE value="Add solution to calculate row-wise sums of a 2D matrix" />
     <MESSAGE value="Add solution to calculate the sum of main diagonal elements in a 2D matrix" />
@@ -688,6 +690,7 @@
     <MESSAGE value="Add problem statement and solution for sum of even indices in an array" />
     <MESSAGE value="Add problem statement and solution for sum of odd indices in an array" />
     <MESSAGE value="Add problem statement and solution for counting indices to balance even and odd indexed sums in an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for counting indices to balance even and odd indexed sums in an array" />
+    <MESSAGE value="Add problem statement and solution for finding the majority element in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for finding the majority element in an array" />
   </component>
 </project>
