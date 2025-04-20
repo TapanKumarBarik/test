@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for sum of even indices in an array">
-      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/Sum of odd indices.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for sum of odd indices in an array">
+      <change afterPath="$PROJECT_DIR$/0013_Intermediate_DSA_Arrays_Interview_Problems_2/Special Index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,81 +74,81 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python. Find Iterations.executor": "Run",
-    "Python.Add the matrices.executor": "Run",
-    "Python.Anti Diagonals.executor": "Run",
-    "Python.Array Rotation.executor": "Run",
-    "Python.Best Time to Buy and Sell Stocks I.executor": "Run",
-    "Python.Bulbs.executor": "Run",
-    "Python.Closest MinMax.executor": "Run",
-    "Python.Column Sum.executor": "Run",
-    "Python.Count Factors - 2.executor": "Run",
-    "Python.Count of elements.executor": "Run",
-    "Python.Count of primes.executor": "Run",
-    "Python.Counting Subarrays Easy.executor": "Run",
-    "Python.Equilibrium index of an array.executor": "Run",
-    "Python.Even Subarrays.executor": "Run",
-    "Python.Even numbers in a range.executor": "Run",
-    "Python.Find Armstrong Numbers.executor": "Run",
-    "Python.Find Perfect Numbers.executor": "Run",
-    "Python.Generate all subarrays.executor": "Run",
-    "Python.Good Pair.executor": "Run",
-    "Python.Good Subarrays Easy.executor": "Run",
-    "Python.In-place Prefix Sum.executor": "Run",
-    "Python.Is Perfect Square.executor": "Run",
-    "Python.IsPrime.executor": "Run",
-    "Python.Josephus Problem - 2.executor": "Run",
-    "Python.Leaders in an array.executor": "Run",
-    "Python.Length of longest consecutive ones.executor": "Run",
-    "Python.Linear Search - Multiple Occurences.executor": "Run",
-    "Python.Main Diagonal Sum.executor": "Run",
-    "Python.Make it.executor": "Run",
-    "Python.Matrix Scalar Product.executor": "Run",
-    "Python.Matrix Subtraction.executor": "Run",
-    "Python.Matrix Transpose.executor": "Run",
-    "Python.Max Min of an Array.executor": "Run",
-    "Python.Maximum Subarray Easy.executor": "Run",
-    "Python.Maximum positivity.executor": "Run",
-    "Python.Minimum Swaps.executor": "Run",
-    "Python.Minor Diagonal Sum.executor": "Run",
-    "Python.Multiple left rotations of the array.executor": "Debug",
-    "Python.Number of elements in a range.executor": "Run",
-    "Python.Pick from both sides!.executor": "Run",
-    "Python.Product array puzzle.executor": "Run",
-    "Python.Range Sum Query - II.executor": "Run",
-    "Python.Range Sum Query.executor": "Run",
-    "Python.Reverse in a range.executor": "Run",
-    "Python.Reverse the Array.executor": "Run",
-    "Python.Row Sum.executor": "Run",
-    "Python.Row to Column Zero.executor": "Run",
-    "Python.Second Largest.executor": "Run",
-    "Python.Special Subsequences_AG.executor": "Run",
-    "Python.Square root of a number.executor": "Run",
-    "Python.Subarray in given range.executor": "Run",
-    "Python.Subarray with given sum and length.executor": "Run",
-    "Python.Subarray with least average.executor": "Run",
-    "Python.Sum of N natural numbers.executor": "Run",
-    "Python.Sum of even indices.executor": "Run",
-    "Python.Sum of odd indices.executor": "Run",
-    "Python.Time Complexity - Arrays.executor": "Run",
-    "Python.Time to equality.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mazing Subarrays.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python. Find Iterations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Add the matrices.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Anti Diagonals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Array Rotation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Best Time to Buy and Sell Stocks I.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bulbs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Closest MinMax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Column Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count Factors - 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count of elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count of primes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Counting Subarrays Easy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Equilibrium index of an array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Even Subarrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Even numbers in a range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Find Armstrong Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Find Perfect Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Generate all subarrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Good Pair.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Good Subarrays Easy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.In-place Prefix Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Is Perfect Square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IsPrime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Josephus Problem - 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Leaders in an array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Length of longest consecutive ones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Linear Search - Multiple Occurences.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main Diagonal Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Make it.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matrix Scalar Product.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matrix Subtraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matrix Transpose.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Max Min of an Array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Maximum Subarray Easy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Maximum positivity.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Minimum Swaps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Minor Diagonal Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multiple left rotations of the array.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Number of elements in a range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pick from both sides!.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Product array puzzle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Range Sum Query - II.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Range Sum Query.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Reverse in a range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Reverse the Array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Row Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Row to Column Zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Second Largest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Special Subsequences_AG.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Square root of a number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subarray in given range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subarray with given sum and length.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subarray with least average.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sum of N natural numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sum of even indices.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sum of odd indices.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Time Complexity - Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Time to equality.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mazing Subarrays.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Scalar\Scalar\0006_Intermediate_DSA_Introduction to Arrays" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Count Factors - 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scalar" />
       <option name="ENV_FILES" value="" />
@@ -253,14 +253,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Add solution to find minimum time to make all elements in an array equal">
-      <option name="closed" value="true" />
-      <created>1743958291108</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1743958291108</updated>
     </task>
     <task id="LOCAL-00034" summary="Add solutions to analyze time complexity of code snippets">
       <option name="closed" value="true" />
@@ -646,7 +638,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745042094396</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Add problem statement and solution for sum of odd indices in an array">
+      <option name="closed" value="true" />
+      <created>1745042507985</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1745042507986</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -662,7 +662,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to generate all subarrays from a given array" />
     <MESSAGE value="Add solutions for identifying alternating subarrays and counting good subarrays" />
     <MESSAGE value="Add solution to count subarrays with sum less than a given value" />
     <MESSAGE value="Add solution to calculate column-wise sums of a 2D matrix" />
@@ -687,6 +686,7 @@
     <MESSAGE value="Add solution to find the maximum size subarray of non-negative elements" />
     <MESSAGE value="Add problem statement and solution for multiple left rotations of an array" />
     <MESSAGE value="Add problem statement and solution for sum of even indices in an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for sum of even indices in an array" />
+    <MESSAGE value="Add problem statement and solution for sum of odd indices in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for sum of odd indices in an array" />
   </component>
 </project>
