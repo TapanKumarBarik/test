@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for finding the single number in an array">
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/XOR Sum.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for finding the minimum value of (A ⊕ X) + (B ⊕ X)">
+      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Interesting Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +99,7 @@
     "Python.Good Pair.executor": "Run",
     "Python.Good Subarrays Easy.executor": "Run",
     "Python.In-place Prefix Sum.executor": "Run",
+    "Python.Interesting Array.executor": "Run",
     "Python.Is Perfect Square.executor": "Run",
     "Python.IsPrime.executor": "Run",
     "Python.Josephus Problem - 2.executor": "Run",
@@ -139,6 +140,7 @@
     "Python.Sum of odd indices.executor": "Run",
     "Python.Time Complexity - Arrays.executor": "Run",
     "Python.Time to equality.executor": "Run",
+    "Python.XOR Sum.executor": "Run",
     "Python.main.executor": "Run",
     "Python.mazing Subarrays.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -257,14 +259,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Add solution to find leaders in an array">
-      <option name="closed" value="true" />
-      <created>1744128865742</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1744128865742</updated>
     </task>
     <task id="LOCAL-00044" summary="Add solution to find the length of the smallest subarray containing both min and max values">
       <option name="closed" value="true" />
@@ -650,7 +644,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745146563004</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Add problem statement and solution for finding the minimum value of (A ⊕ X) + (B ⊕ X)">
+      <option name="closed" value="true" />
+      <created>1745236780660</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1745236780660</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -666,7 +668,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution for scalar multiplication of a matrix by an integer" />
     <MESSAGE value="Add solution to check if two matrices are equal" />
     <MESSAGE value="Add solution to perform matrix addition" />
     <MESSAGE value="Add solution to perform matrix subtraction" />
@@ -691,6 +692,7 @@
     <MESSAGE value="Add problem statement and solution for converting a number from any base to decimal" />
     <MESSAGE value="Add problem statement and solution for converting a decimal number to any base" />
     <MESSAGE value="Add problem statement and solution for finding the single number in an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for finding the single number in an array" />
+    <MESSAGE value="Add problem statement and solution for finding the minimum value of (A ⊕ X) + (B ⊕ X)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for finding the minimum value of (A ⊕ X) + (B ⊕ X)" />
   </component>
 </project>
