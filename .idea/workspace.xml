@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for toggling bits using XOR operation">
-      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Check Bit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/download.pdf" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for checking if a specific bit is set in an integer">
+      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Number of 1 Bits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +84,7 @@
     "Python.Array Rotation.executor": "Run",
     "Python.Best Time to Buy and Sell Stocks I.executor": "Run",
     "Python.Bulbs.executor": "Run",
+    "Python.Check Bit.executor": "Run",
     "Python.Closest MinMax.executor": "Run",
     "Python.Column Sum.executor": "Run",
     "Python.Count Factors - 2.executor": "Run",
@@ -262,14 +261,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Add solution to determine if an array can be divided into even-length subarrays with even first and last elements">
-      <option name="closed" value="true" />
-      <created>1744206504600</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1744206504600</updated>
     </task>
     <task id="LOCAL-00048" summary="Add solution to find the minimum number of switches to turn on all bulbs">
       <option name="closed" value="true" />
@@ -655,7 +646,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745285675814</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Add problem statement and solution for checking if a specific bit is set in an integer">
+      <option name="closed" value="true" />
+      <created>1745286345993</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1745286345993</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -671,7 +670,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to set entire row and column to zero in a matrix" />
     <MESSAGE value="Add solution to find a subarray of given length with a specific sum" />
     <MESSAGE value="Add solution to find the minimum number of swaps to group elements less than or equal to a given value" />
     <MESSAGE value="Add solution to generate a square matrix in spiral order" />
@@ -696,6 +694,7 @@
     <MESSAGE value="Add problem statement and solution for converting an array to a single element equal to 0 using split and merge operations" />
     <MESSAGE value="Add problem statement and solution for counting subarrays with bitwise OR equal to 1" />
     <MESSAGE value="Add problem statement and solution for toggling bits using XOR operation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for toggling bits using XOR operation" />
+    <MESSAGE value="Add problem statement and solution for checking if a specific bit is set in an integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for checking if a specific bit is set in an integer" />
   </component>
 </project>
