@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for counting subarrays with bitwise OR equal to 1">
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Bit Operations - 2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Bit Operations - 3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/img.png" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for toggling bits using XOR operation">
+      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Check Bit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/download.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -262,14 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Add solutions to count subarrays starting with 'a' and find amazing substrings">
-      <option name="closed" value="true" />
-      <created>1744164664540</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1744164664540</updated>
     </task>
     <task id="LOCAL-00047" summary="Add solution to determine if an array can be divided into even-length subarrays with even first and last elements">
       <option name="closed" value="true" />
@@ -655,7 +647,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745285428841</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Add problem statement and solution for toggling bits using XOR operation">
+      <option name="closed" value="true" />
+      <created>1745285675814</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1745285675814</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -671,7 +671,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to perform matrix subtraction" />
     <MESSAGE value="Add solution to set entire row and column to zero in a matrix" />
     <MESSAGE value="Add solution to find a subarray of given length with a specific sum" />
     <MESSAGE value="Add solution to find the minimum number of swaps to group elements less than or equal to a given value" />
@@ -696,6 +695,7 @@
     <MESSAGE value="Add problem statement and solution for finding the minimum value of (A ⊕ X) + (B ⊕ X)" />
     <MESSAGE value="Add problem statement and solution for converting an array to a single element equal to 0 using split and merge operations" />
     <MESSAGE value="Add problem statement and solution for counting subarrays with bitwise OR equal to 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for counting subarrays with bitwise OR equal to 1" />
+    <MESSAGE value="Add problem statement and solution for toggling bits using XOR operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for toggling bits using XOR operation" />
   </component>
 </project>
