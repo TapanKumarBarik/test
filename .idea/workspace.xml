@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for converting an array to a single element equal to 0 using split and merge operations">
-      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Subarrays with Bitwise OR 1.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for counting subarrays with bitwise OR equal to 1">
+      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Bit Operations - 2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/Bit Operations - 3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0014_Intermediate_DSA_Bit Manipulations_1/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,6 +137,7 @@
     "Python.Subarray in given range.executor": "Run",
     "Python.Subarray with given sum and length.executor": "Run",
     "Python.Subarray with least average.executor": "Run",
+    "Python.Subarrays with Bitwise OR 1.executor": "Run",
     "Python.Sum of N natural numbers.executor": "Run",
     "Python.Sum of even indices.executor": "Run",
     "Python.Sum of odd indices.executor": "Run",
@@ -259,14 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Add solution to find the length of the smallest subarray containing both min and max values">
-      <option name="closed" value="true" />
-      <created>1744163756991</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1744163756991</updated>
     </task>
     <task id="LOCAL-00046" summary="Add solutions to count subarrays starting with 'a' and find amazing substrings">
       <option name="closed" value="true" />
@@ -652,7 +647,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745237377022</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Add problem statement and solution for counting subarrays with bitwise OR equal to 1">
+      <option name="closed" value="true" />
+      <created>1745285428841</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1745285428841</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -668,7 +671,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to perform matrix addition" />
     <MESSAGE value="Add solution to perform matrix subtraction" />
     <MESSAGE value="Add solution to set entire row and column to zero in a matrix" />
     <MESSAGE value="Add solution to find a subarray of given length with a specific sum" />
@@ -693,6 +695,7 @@
     <MESSAGE value="Add problem statement and solution for finding the single number in an array" />
     <MESSAGE value="Add problem statement and solution for finding the minimum value of (A ⊕ X) + (B ⊕ X)" />
     <MESSAGE value="Add problem statement and solution for converting an array to a single element equal to 0 using split and merge operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for converting an array to a single element equal to 0 using split and merge operations" />
+    <MESSAGE value="Add problem statement and solution for counting subarrays with bitwise OR equal to 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for counting subarrays with bitwise OR equal to 1" />
   </component>
 </project>
