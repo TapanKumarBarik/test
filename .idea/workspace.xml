@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for checking if a specific bit is set in an integer">
-      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Number of 1 Bits.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for counting the number of 1 bits in an integer">
+      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Set Bit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Unset i-th bit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,6 +121,7 @@
     "Python.Minor Diagonal Sum.executor": "Run",
     "Python.Multiple left rotations of the array.executor": "Debug",
     "Python.N by 3 Repeat Number.executor": "Run",
+    "Python.Number of 1 Bits.executor": "Run",
     "Python.Number of elements in a range.executor": "Run",
     "Python.Pick from both sides!.executor": "Run",
     "Python.Product array puzzle.executor": "Run",
@@ -261,14 +263,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Add solution to find the minimum number of switches to turn on all bulbs">
-      <option name="closed" value="true" />
-      <created>1744208381982</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1744208381982</updated>
     </task>
     <task id="LOCAL-00049" summary="Add solution to find the maximum possible sum of elements removed from both ends of an array">
       <option name="closed" value="true" />
@@ -654,7 +648,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745286345993</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Add problem statement and solution for counting the number of 1 bits in an integer">
+      <option name="closed" value="true" />
+      <created>1745329819104</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1745329819104</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -670,7 +672,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to find a subarray of given length with a specific sum" />
     <MESSAGE value="Add solution to find the minimum number of swaps to group elements less than or equal to a given value" />
     <MESSAGE value="Add solution to generate a square matrix in spiral order" />
     <MESSAGE value="Add initial implementation for generating a square matrix in spiral order" />
@@ -695,6 +696,7 @@
     <MESSAGE value="Add problem statement and solution for counting subarrays with bitwise OR equal to 1" />
     <MESSAGE value="Add problem statement and solution for toggling bits using XOR operation" />
     <MESSAGE value="Add problem statement and solution for checking if a specific bit is set in an integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for checking if a specific bit is set in an integer" />
+    <MESSAGE value="Add problem statement and solution for counting the number of 1 bits in an integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for counting the number of 1 bits in an integer" />
   </component>
 </project>
