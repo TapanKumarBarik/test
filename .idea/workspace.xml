@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for counting the number of 1 bits in an integer">
-      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Set Bit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Unset i-th bit.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for setting specific bits in an integer">
+      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Toggle i-th bit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -263,14 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Add solution to find the maximum possible sum of elements removed from both ends of an array">
-      <option name="closed" value="true" />
-      <created>1744250664917</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1744250664917</updated>
     </task>
     <task id="LOCAL-00050" summary="Add solutions for calculating total subarrays and time-space complexity of subarray sums">
       <option name="closed" value="true" />
@@ -656,7 +647,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745329819104</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Add problem statement and solution for setting specific bits in an integer">
+      <option name="closed" value="true" />
+      <created>1745378071849</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1745378071849</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -672,7 +671,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to find the minimum number of swaps to group elements less than or equal to a given value" />
     <MESSAGE value="Add solution to generate a square matrix in spiral order" />
     <MESSAGE value="Add initial implementation for generating a square matrix in spiral order" />
     <MESSAGE value="Add problem statement for &quot;100 People in a Circle&quot; challenge" />
@@ -697,6 +695,7 @@
     <MESSAGE value="Add problem statement and solution for toggling bits using XOR operation" />
     <MESSAGE value="Add problem statement and solution for checking if a specific bit is set in an integer" />
     <MESSAGE value="Add problem statement and solution for counting the number of 1 bits in an integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for counting the number of 1 bits in an integer" />
+    <MESSAGE value="Add problem statement and solution for setting specific bits in an integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for setting specific bits in an integer" />
   </component>
 </project>
