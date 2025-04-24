@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for unsetting B bits from the right of an integer">
-      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Help From Sam.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for calculating minimum help needed to achieve a target score">
+      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Finding Good Days.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +99,7 @@
     "Python.Generate all subarrays.executor": "Run",
     "Python.Good Pair.executor": "Run",
     "Python.Good Subarrays Easy.executor": "Run",
+    "Python.Help From Sam.executor": "Run",
     "Python.In-place Prefix Sum.executor": "Run",
     "Python.Interesting Array.executor": "Run",
     "Python.Is Perfect Square.executor": "Run",
@@ -263,14 +264,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Add solution to calculate the sum of all subarray sums in an array">
-      <option name="closed" value="true" />
-      <created>1744340998967</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1744340998967</updated>
     </task>
     <task id="LOCAL-00053" summary="Add solution to find the maximum sum of a subarray not exceeding a given value">
       <option name="closed" value="true" />
@@ -656,7 +649,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745460779510</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Add problem statement and solution for calculating minimum help needed to achieve a target score">
+      <option name="closed" value="true" />
+      <created>1745460953376</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1745460953376</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -672,7 +673,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add problem statement for &quot;100 People in a Circle&quot; challenge" />
     <MESSAGE value="Add solution to find the length of the longest consecutive 1's after one swap in a binary string" />
     <MESSAGE value="Add solution to count increasing triplets in an array" />
     <MESSAGE value="Add solution for the Josephus Problem" />
@@ -697,6 +697,7 @@
     <MESSAGE value="Add problem statement and solution for setting specific bits in an integer" />
     <MESSAGE value="Add problem statement and solution for toggling the i-th bit in an integer" />
     <MESSAGE value="Add problem statement and solution for unsetting B bits from the right of an integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for unsetting B bits from the right of an integer" />
+    <MESSAGE value="Add problem statement and solution for calculating minimum help needed to achieve a target score" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for calculating minimum help needed to achieve a target score" />
   </component>
 </project>
