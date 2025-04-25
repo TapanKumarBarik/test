@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for calculating minimum help needed to achieve a target score">
-      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Finding Good Days.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for counting the number of days a cat received food">
+      <change afterPath="$PROJECT_DIR$/0015_Intermediate_DSA_Bit_Manipulations_2/Find nth Magic Number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -264,14 +264,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Add solution to find the maximum sum of a subarray not exceeding a given value">
-      <option name="closed" value="true" />
-      <created>1744380569088</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1744380569088</updated>
     </task>
     <task id="LOCAL-00054" summary="Add solution to generate all subarrays from a given array">
       <option name="closed" value="true" />
@@ -657,7 +649,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745460953376</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Add problem statement and solution for counting the number of days a cat received food">
+      <option name="closed" value="true" />
+      <created>1745461272376</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1745461272376</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -673,7 +673,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add solution to find the length of the longest consecutive 1's after one swap in a binary string" />
     <MESSAGE value="Add solution to count increasing triplets in an array" />
     <MESSAGE value="Add solution for the Josephus Problem" />
     <MESSAGE value="Add solution to find the maximum size subarray of non-negative elements" />
@@ -698,6 +697,7 @@
     <MESSAGE value="Add problem statement and solution for toggling the i-th bit in an integer" />
     <MESSAGE value="Add problem statement and solution for unsetting B bits from the right of an integer" />
     <MESSAGE value="Add problem statement and solution for calculating minimum help needed to achieve a target score" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for calculating minimum help needed to achieve a target score" />
+    <MESSAGE value="Add problem statement and solution for counting the number of days a cat received food" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for counting the number of days a cat received food" />
   </component>
 </project>
