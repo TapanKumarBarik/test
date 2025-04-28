@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for calculating (A ^ B) % C">
-      <change afterPath="$PROJECT_DIR$/0016_Intermediate_DSA_Maths_Modular_Arthimetic_Introduction/Mod Array.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for calculating A % B from an array of digits">
+      <change afterPath="$PROJECT_DIR$/0016_Intermediate_DSA_Maths_Modular_Arthimetic_Introduction/Divisibility by 3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -266,14 +266,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Add solution to calculate column-wise sums of a 2D matrix">
-      <option name="closed" value="true" />
-      <created>1744464297385</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1744464297386</updated>
     </task>
     <task id="LOCAL-00058" summary="Add solution to calculate row-wise sums of a 2D matrix">
       <option name="closed" value="true" />
@@ -659,7 +651,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745635618488</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Add problem statement and solution for calculating A % B from an array of digits">
+      <option name="closed" value="true" />
+      <created>1745722333729</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1745722333729</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -675,7 +675,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add problem statement and solution for multiple left rotations of an array" />
     <MESSAGE value="Add problem statement and solution for sum of even indices in an array" />
     <MESSAGE value="Add problem statement and solution for sum of odd indices in an array" />
     <MESSAGE value="Add problem statement and solution for counting indices to balance even and odd indexed sums in an array" />
@@ -700,6 +699,7 @@
     <MESSAGE value="Add problem statement and solution for finding the nth magic number" />
     <MESSAGE value="Add properties configuration for Python executors in workspace settings" />
     <MESSAGE value="Add problem statement and solution for calculating (A ^ B) % C" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for calculating (A ^ B) % C" />
+    <MESSAGE value="Add problem statement and solution for calculating A % B from an array of digits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for calculating A % B from an array of digits" />
   </component>
 </project>
