@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for checking divisibility by 8 from a string">
-      <change afterPath="$PROJECT_DIR$/0016_Intermediate_DSA_Maths_Modular_Arthimetic_Introduction/Concatenate Three Numbers.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for finding the minimum concatenated number from three integers">
+      <change afterPath="$PROJECT_DIR$/0017_Intermediate_DSA_Sorting/Elements Removal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0017_Intermediate_DSA_Sorting/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0017_Intermediate_DSA_Sorting/download.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +89,7 @@
     "Python.Check Bit.executor": "Run",
     "Python.Closest MinMax.executor": "Run",
     "Python.Column Sum.executor": "Run",
+    "Python.Concatenate Three Numbers.executor": "Run",
     "Python.Count Factors - 2.executor": "Run",
     "Python.Count of elements.executor": "Run",
     "Python.Count of primes.executor": "Run",
@@ -269,14 +272,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Add solution to rotate a 2D matrix by 90 degrees clockwise">
-      <option name="closed" value="true" />
-      <created>1744600178192</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1744600178192</updated>
     </task>
     <task id="LOCAL-00063" summary="Add solution for scalar multiplication of a matrix by an integer">
       <option name="closed" value="true" />
@@ -662,7 +657,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745929128978</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Add problem statement and solution for finding the minimum concatenated number from three integers">
+      <option name="closed" value="true" />
+      <created>1745929366297</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1745929366298</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -678,7 +681,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add problem statement and solution for determining the color of the last ball in a bag" />
     <MESSAGE value="Add problem statement and solution for finding an integer that occurs more than N/3 times in an array" />
     <MESSAGE value="Add problem statements and solutions for binary addition, binary to decimal conversion, and bit operations" />
     <MESSAGE value="Add problem statement and solution for converting a number from any base to decimal" />
@@ -703,6 +705,7 @@
     <MESSAGE value="Add solution for checking divisibility by 3 from an array of digits" />
     <MESSAGE value="Add problem statement and solution for determining leap year from an integer" />
     <MESSAGE value="Add problem statement and solution for checking divisibility by 8 from a string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for checking divisibility by 8 from a string" />
+    <MESSAGE value="Add problem statement and solution for finding the minimum concatenated number from three integers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for finding the minimum concatenated number from three integers" />
   </component>
 </project>
