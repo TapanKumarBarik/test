@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add solution for checking divisibility by 3 from an array of digits">
-      <change afterPath="$PROJECT_DIR$/0016_Intermediate_DSA_Maths_Modular_Arthimetic_Introduction/Leap year - III.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for determining leap year from an integer">
+      <change afterPath="$PROJECT_DIR$/0016_Intermediate_DSA_Maths_Modular_Arthimetic_Introduction/Divisibility by 8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +108,7 @@
     "Python.IsPrime.executor": "Run",
     "Python.Josephus Problem - 2.executor": "Run",
     "Python.Leaders in an array.executor": "Run",
+    "Python.Leap year - III.executor": "Run",
     "Python.Length of longest consecutive ones.executor": "Run",
     "Python.Linear Search - Multiple Occurences.executor": "Run",
     "Python.Main Diagonal Sum.executor": "Run",
@@ -267,14 +268,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Add solution to calculate the sum of minor diagonal elements in a 2D matrix">
-      <option name="closed" value="true" />
-      <created>1744467021196</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1744467021196</updated>
     </task>
     <task id="LOCAL-00061" summary="Add solution to return anti-diagonals of a 2D matrix">
       <option name="closed" value="true" />
@@ -660,7 +653,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745928966388</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Add problem statement and solution for determining leap year from an integer">
+      <option name="closed" value="true" />
+      <created>1745929070069</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1745929070069</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -676,7 +677,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add problem statement and solution for counting indices to balance even and odd indexed sums in an array" />
     <MESSAGE value="Add problem statement and solution for finding the majority element in an array" />
     <MESSAGE value="Add problem statement and solution for determining the color of the last ball in a bag" />
     <MESSAGE value="Add problem statement and solution for finding an integer that occurs more than N/3 times in an array" />
@@ -701,6 +701,7 @@
     <MESSAGE value="Add problem statement and solution for calculating A % B from an array of digits" />
     <MESSAGE value="Add problem statement and solution for checking divisibility by 3 from an array of digits" />
     <MESSAGE value="Add solution for checking divisibility by 3 from an array of digits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solution for checking divisibility by 3 from an array of digits" />
+    <MESSAGE value="Add problem statement and solution for determining leap year from an integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for determining leap year from an integer" />
   </component>
 </project>
