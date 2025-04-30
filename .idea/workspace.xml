@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for calculating minimum cost to remove all elements from an array">
-      <change afterPath="$PROJECT_DIR$/0017_Intermediate_DSA_Sorting/Noble Integer.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for finding a noble integer in an array">
+      <change afterPath="$PROJECT_DIR$/0017_Intermediate_DSA_Sorting/Factors sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -270,14 +270,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Add solution to check if two matrices are equal">
-      <option name="closed" value="true" />
-      <created>1744600665011</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1744600665011</updated>
     </task>
     <task id="LOCAL-00065" summary="Add solution to perform matrix addition">
       <option name="closed" value="true" />
@@ -663,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745933142218</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Add problem statement and solution for finding a noble integer in an array">
+      <option name="closed" value="true" />
+      <created>1745977939418</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1745977939418</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -679,7 +679,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add problem statements and solutions for binary addition, binary to decimal conversion, and bit operations" />
     <MESSAGE value="Add problem statement and solution for converting a number from any base to decimal" />
     <MESSAGE value="Add problem statement and solution for converting a decimal number to any base" />
     <MESSAGE value="Add problem statement and solution for finding the single number in an array" />
@@ -704,6 +703,7 @@
     <MESSAGE value="Add problem statement and solution for checking divisibility by 8 from a string" />
     <MESSAGE value="Add problem statement and solution for finding the minimum concatenated number from three integers" />
     <MESSAGE value="Add problem statement and solution for calculating minimum cost to remove all elements from an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for calculating minimum cost to remove all elements from an array" />
+    <MESSAGE value="Add problem statement and solution for finding a noble integer in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for finding a noble integer in an array" />
   </component>
 </project>
