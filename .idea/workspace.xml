@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for sorting an array of colors">
-      <change afterPath="$PROJECT_DIR$/0017_Intermediate_DSA_Sorting/Arithmetic Progression.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for checking if an array can form an arithmetic progression">
+      <change afterPath="$PROJECT_DIR$/0017_Intermediate_DSA_Sorting/Tens Digit Sorting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -270,14 +270,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Add solution to find a subarray of given length with a specific sum">
-      <option name="closed" value="true" />
-      <created>1744680192723</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1744680192723</updated>
     </task>
     <task id="LOCAL-00069" summary="Add solution to find the minimum number of swaps to group elements less than or equal to a given value">
       <option name="closed" value="true" />
@@ -663,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745978558143</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="Add problem statement and solution for checking if an array can form an arithmetic progression">
+      <option name="closed" value="true" />
+      <created>1746077501179</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1746077501179</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -679,7 +679,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add problem statement and solution for finding the minimum value of (A ⊕ X) + (B ⊕ X)" />
     <MESSAGE value="Add problem statement and solution for converting an array to a single element equal to 0 using split and merge operations" />
     <MESSAGE value="Add problem statement and solution for counting subarrays with bitwise OR equal to 1" />
     <MESSAGE value="Add problem statement and solution for toggling bits using XOR operation" />
@@ -704,6 +703,7 @@
     <MESSAGE value="Add problem statement and solution for sorting an array by the number of distinct factors" />
     <MESSAGE value="Add problem statement and solution for arranging numbers to form the largest number" />
     <MESSAGE value="Add problem statement and solution for sorting an array of colors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for sorting an array of colors" />
+    <MESSAGE value="Add problem statement and solution for checking if an array can form an arithmetic progression" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for checking if an array can form an arithmetic progression" />
   </component>
 </project>
