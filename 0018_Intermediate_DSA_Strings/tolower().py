@@ -71,3 +71,15 @@ class Solution:
     def to_lower(self, A):
         A = [x.lower() for x in A]
         return A
+
+
+# Example usage
+if __name__ == "__main__":
+    solution = Solution()
+    input1 = ['S', 'c', 'A', 'l', 'e', 'r', 'A', 'c', 'a', 'D', 'e', 'm', 'y']
+    output1 = solution.to_lower(input1)
+    print(output1)  # Expected output: ['s', 'c', 'a', 'l', 'e', 'r', 'a', 'c', 'a', 'd', 'e', 'm', 'y']
+
+    input2 = ['S', 'c', 'a', 'L', 'e', 'r', '#', '2', '0', '2', '0']
+    output2 = solution.to_lower(input2)
+    print(output2)  # Expected output: ['s', 'c', 'a', 'l', 'e', 'r', '#', '2', '0', '2', '0']
