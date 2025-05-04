@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for converting a character array to lowercase">
-      <change afterPath="$PROJECT_DIR$/0018_Intermediate_DSA_Strings/toupper().py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for converting a character array to uppercase">
+      <change afterPath="$PROJECT_DIR$/0018_Intermediate_DSA_Strings/Toggle Case.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0018_Intermediate_DSA_Strings/tolower().py" beforeDir="false" afterPath="$PROJECT_DIR$/0018_Intermediate_DSA_Strings/tolower().py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,14 +270,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00071" summary="Add initial implementation for generating a square matrix in spiral order">
-      <option name="closed" value="true" />
-      <created>1744781874180</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1744781874180</updated>
     </task>
     <task id="LOCAL-00072" summary="Add problem statement for &quot;100 People in a Circle&quot; challenge">
       <option name="closed" value="true" />
@@ -664,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746164359073</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Add problem statement and solution for converting a character array to uppercase">
+      <option name="closed" value="true" />
+      <created>1746240519023</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1746240519023</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -680,7 +679,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add problem statement and solution for toggling bits using XOR operation" />
     <MESSAGE value="Add problem statement and solution for checking if a specific bit is set in an integer" />
     <MESSAGE value="Add problem statement and solution for counting the number of 1 bits in an integer" />
     <MESSAGE value="Add problem statement and solution for setting specific bits in an integer" />
@@ -705,6 +703,7 @@
     <MESSAGE value="Add problem statement and solution for checking if an array can form an arithmetic progression" />
     <MESSAGE value="Add problem statement and solution for sorting an array based on tens digit" />
     <MESSAGE value="Add problem statement and solution for converting a character array to lowercase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for converting a character array to lowercase" />
+    <MESSAGE value="Add problem statement and solution for converting a character array to uppercase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for converting a character array to uppercase" />
   </component>
 </project>
