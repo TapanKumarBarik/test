@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for toggling case of a character string">
-      <change afterPath="$PROJECT_DIR$/0018_Intermediate_DSA_Strings/Count Sort.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for sorting an array using Count Sort algorithm">
+      <change afterPath="$PROJECT_DIR$/0018_Intermediate_DSA_Strings/Simple Reverse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -270,14 +270,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00073" summary="Add solution to find the length of the longest consecutive 1's after one swap in a binary string">
-      <option name="closed" value="true" />
-      <created>1744968859180</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1744968859180</updated>
     </task>
     <task id="LOCAL-00074" summary="Add solution to count increasing triplets in an array">
       <option name="closed" value="true" />
@@ -663,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746376875736</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="Add problem statement and solution for sorting an array using Count Sort algorithm">
+      <option name="closed" value="true" />
+      <created>1746454354423</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1746454354424</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -679,7 +679,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add problem statement and solution for counting the number of 1 bits in an integer" />
     <MESSAGE value="Add problem statement and solution for setting specific bits in an integer" />
     <MESSAGE value="Add problem statement and solution for toggling the i-th bit in an integer" />
     <MESSAGE value="Add problem statement and solution for unsetting B bits from the right of an integer" />
@@ -704,6 +703,7 @@
     <MESSAGE value="Add problem statement and solution for converting a character array to lowercase" />
     <MESSAGE value="Add problem statement and solution for converting a character array to uppercase" />
     <MESSAGE value="Add problem statement and solution for toggling case of a character string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for toggling case of a character string" />
+    <MESSAGE value="Add problem statement and solution for sorting an array using Count Sort algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for sorting an array using Count Sort algorithm" />
   </component>
 </project>
