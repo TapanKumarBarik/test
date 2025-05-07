@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for reversing a string">
-      <change afterPath="$PROJECT_DIR$/0018_Intermediate_DSA_Strings/Reverse the String.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for reversing a string word by word">
+      <change afterPath="$PROJECT_DIR$/0018_Intermediate_DSA_Strings/Longest Palindromic Substring.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -270,14 +270,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Add solution for the Josephus Problem">
-      <option name="closed" value="true" />
-      <created>1744987072848</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1744987072848</updated>
     </task>
     <task id="LOCAL-00076" summary="Add solution to find the maximum size subarray of non-negative elements">
       <option name="closed" value="true" />
@@ -663,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746495643470</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Add problem statement and solution for reversing a string word by word">
+      <option name="closed" value="true" />
+      <created>1746495913084</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1746495913084</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -679,7 +679,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add problem statement and solution for toggling the i-th bit in an integer" />
     <MESSAGE value="Add problem statement and solution for unsetting B bits from the right of an integer" />
     <MESSAGE value="Add problem statement and solution for calculating minimum help needed to achieve a target score" />
     <MESSAGE value="Add problem statement and solution for counting the number of days a cat received food" />
@@ -704,6 +703,18 @@
     <MESSAGE value="Add problem statement and solution for toggling case of a character string" />
     <MESSAGE value="Add problem statement and solution for sorting an array using Count Sort algorithm" />
     <MESSAGE value="Add problem statement and solution for reversing a string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for reversing a string" />
+    <MESSAGE value="Add problem statement and solution for reversing a string word by word" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for reversing a string word by word" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0018_Intermediate_DSA_Strings/Longest Palindromic Substring.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
