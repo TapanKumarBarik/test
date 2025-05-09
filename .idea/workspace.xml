@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for finding the longest palindromic substring">
-      <change afterPath="$PROJECT_DIR$/0018_Intermediate_DSA_Strings/Longest Common Prefix.py" afterDir="false" />
+    <list default="true" id="4373c9ce-15f7-46cd-802e-7f367c39c9c0" name="Changes" comment="Add problem statement and solution for finding the longest common prefix of strings">
+      <change afterPath="$PROJECT_DIR$/0018_Intermediate_DSA_Strings/Isalnum().py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -270,14 +270,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743526850828</updated>
-    </task>
-    <task id="LOCAL-00077" summary="Add solution to find the maximum size subarray of non-negative elements">
-      <option name="closed" value="true" />
-      <created>1745029685094</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1745029685094</updated>
     </task>
     <task id="LOCAL-00078" summary="Add problem statement and solution for multiple left rotations of an array">
       <option name="closed" value="true" />
@@ -663,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746626704826</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Add problem statement and solution for finding the longest common prefix of strings">
+      <option name="closed" value="true" />
+      <created>1746713142164</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1746713142164</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -679,7 +679,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add problem statement and solution for calculating minimum help needed to achieve a target score" />
     <MESSAGE value="Add problem statement and solution for counting the number of days a cat received food" />
     <MESSAGE value="Add problem statement and solution for finding the nth magic number" />
     <MESSAGE value="Add properties configuration for Python executors in workspace settings" />
@@ -704,7 +703,8 @@
     <MESSAGE value="Add problem statement and solution for reversing a string" />
     <MESSAGE value="Add problem statement and solution for reversing a string word by word" />
     <MESSAGE value="Add problem statement and solution for finding the longest palindromic substring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for finding the longest palindromic substring" />
+    <MESSAGE value="Add problem statement and solution for finding the longest common prefix of strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add problem statement and solution for finding the longest common prefix of strings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
